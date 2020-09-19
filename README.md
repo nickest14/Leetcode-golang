@@ -6,10 +6,10 @@
 #### 1. Two Sum
 
 
-### Medinum finish 0
-
+### Medinum finish 1
+#### 2. Add Two Numbers
 
 ### Hard finish 0
 
 
-### Total finish 1
+### Total finish 2

@@ -4,7 +4,7 @@
 package leetcode
 
 // TwoSum is to solve leetcode problem 1
-func TwoSum(nums []int, target int) []int {
+func twoSum(nums []int, target int) []int {
 	m := make(map[int]int)
 	for idx, val := range nums {
 		if index, ok := m[target-val]; ok {
