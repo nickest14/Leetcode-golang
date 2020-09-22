@@ -4,11 +4,11 @@
 package leetcode
 
 import (
-	template "leetcode/go/template"
+	structures "leetcode/go/structures"
 )
 
 // ListNode is to define the struct
-type ListNode = template.ListNode
+type ListNode = structures.ListNode
 
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	head := &ListNode{}

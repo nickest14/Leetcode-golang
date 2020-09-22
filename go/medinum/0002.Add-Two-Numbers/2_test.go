@@ -2,7 +2,7 @@ package leetcode
 
 import (
 	"fmt"
-	"leetcode/go/template"
+	"leetcode/go/structures"
 	"testing"
 )
 
@@ -46,7 +46,7 @@ func Test_Problem2(t *testing.T) {
 	}
 
 	for _, q := range qs {
-		p, _ := q.params, q.ans
-		fmt.Printf("[input]: %v        [output]: %v\n", p, template.ListToInts(addTwoNumbers(template.IntsToList(p.one), template.IntsToList(p.another))))
+		p := q.params
+		fmt.Printf("[input]: %v        [output]: %v\n", p, structures.ListToInts(addTwoNumbers(structures.IntsToList(p.one), structures.IntsToList(p.another))))
 	}
 }

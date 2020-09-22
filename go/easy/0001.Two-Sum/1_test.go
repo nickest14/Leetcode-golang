@@ -32,7 +32,7 @@ func Test_Problem1(t *testing.T) {
 	}
 
 	for _, q := range qs {
-		p, _ := q.params, q.ans
+		p := q.params
 		ans := twoSum(p.nums, p.target)
 		fmt.Printf("[input]: %v        [output]: %v\n", p, ans)
 	}

@@ -1,4 +1,4 @@
-package template
+package structures
 
 // ListNode is to define linked list
 type ListNode struct {
