@@ -2,8 +2,9 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 1
+### Easy finish 2
 #### 1. Two Sum
+#### 100. Same Tree
 
 
 ### Medinum finish 2
@@ -14,4 +15,4 @@
 ### Hard finish 0
 
 
-### Total finish 3
+### Total finish 4
