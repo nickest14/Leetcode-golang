@@ -15,7 +15,7 @@ type question101 struct {
 	ans bool
 }
 
-func Test_Problem100(t *testing.T) {
+func Test_Problem101(t *testing.T) {
 	qs := []question101{
 		{
 			params{[]int{}},

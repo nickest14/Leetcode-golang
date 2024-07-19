@@ -8,13 +8,14 @@
 #### 101. Symmetric Tree
 
 
-### Medinum finish 3
+### Medinum finish 5
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
-
+#### 1110. Delete Nodes And Return Forest
+#### 1530. Number of Good Leaf Nodes Pairs
 
 ### Hard finish 0
 
 
-### Total finish 6
+### Total finish 8
