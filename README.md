@@ -2,10 +2,11 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 3
+### Easy finish 4
 #### 1. Two Sum
 #### 100. Same Tree
 #### 101. Symmetric Tree
+#### 2418. Sort the People
 
 
 ### Medinum finish 5
@@ -18,4 +19,4 @@
 ### Hard finish 0
 
 
-### Total finish 8
+### Total finish 9
