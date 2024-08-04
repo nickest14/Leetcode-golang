@@ -11,13 +11,14 @@
 #### 2418. Sort the People
 
 
-### Medinum finish 10
+### Medinum finish 11
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
 #### 912. Sort an Array
 #### 1110. Delete Nodes And Return Forest
 #### 1395. Count Number of Teams
+#### 1508. Range Sum of Sorted Subarray Sums
 #### 1530. Number of Good Leaf Nodes Pairs
 #### 1653. Minimum Deletions to Make String Balanced
 #### 2134. Minimum Swaps to Group All 1's Together II
@@ -26,4 +27,4 @@
 ### Hard finish 0
 
 
-### Total finish 16
+### Total finish 17
