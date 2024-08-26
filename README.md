@@ -2,10 +2,12 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 6
+### Easy finish 8
 #### 1. Two Sum
 #### 100. Same Tree
 #### 101. Symmetric Tree
+#### 476. Number Complement
+#### 590. N-ary Tree Postorder Traversal
 #### 1460. Make Two Arrays Equal by Reversing Subarrays
 #### 1636. Sort Array by Increasing Frequency
 #### 2418. Sort the People
@@ -27,4 +29,4 @@
 ### Hard finish 0
 
 
-### Total finish 17
+### Total finish 19

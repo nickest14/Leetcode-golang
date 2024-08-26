@@ -3,10 +3,7 @@
 
 package leetcode
 
-import "fmt"
-
 func luckyNumbers(matrix [][]int) []int {
-	fmt.Println(matrix)
 	minRow := make([]int, len(matrix))
 	for i, row := range matrix {
 		minRow[i] = row[0]
