@@ -15,7 +15,7 @@
 #### 2418. Sort the People
 
 
-### Medinum finish 12
+### Medinum finish 13
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -28,8 +28,9 @@
 #### 1894. Find the Student that Will Replace the Chalk
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2191. Sort the Jumbled Numbers
+#### 3217. Delete Nodes From Linked List Present in Array
 
 ### Hard finish 0
 
 
-### Total finish 22
+### Total finish 23
