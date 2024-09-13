@@ -9,13 +9,13 @@ type params struct {
 	num int
 }
 
-type question1380 struct {
+type question476 struct {
 	params
 	ans int
 }
 
-func Test_Problem1380(t *testing.T) {
-	qs := []question1380{
+func Test_Problem476(t *testing.T) {
+	qs := []question476{
 		{
 			params{5},
 			2,
