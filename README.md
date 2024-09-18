@@ -2,12 +2,13 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 12
+### Easy finish 13
 #### 1. Two Sum
 #### 100. Same Tree
 #### 101. Symmetric Tree
 #### 476. Number Complement
 #### 590. N-ary Tree Postorder Traversal
+#### 884. Uncommon Words from Two Sentences
 #### 1460. Make Two Arrays Equal by Reversing Subarrays
 #### 1636. Sort Array by Increasing Frequency
 #### 1684. Count the Number of Consistent Strings
@@ -17,10 +18,11 @@
 #### 2418. Sort the People
 
 
-### Medinum finish 20
+### Medinum finish 21
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
+#### 179. Largest Number
 #### 539. Minimum Time Difference
 #### 725. Split Linked List in Parts
 #### 912. Sort an Array
@@ -42,4 +44,4 @@
 ### Hard finish 0
 
 
-### Total finish 32
+### Total finish 34
