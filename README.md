@@ -18,11 +18,12 @@
 #### 2418. Sort the People
 
 
-### Medinum finish 21
+### Medinum finish 23
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
 #### 179. Largest Number
+#### 386. Lexicographical Numbers
 #### 539. Minimum Time Difference
 #### 725. Split Linked List in Parts
 #### 912. Sort an Array
@@ -38,10 +39,11 @@
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2191. Sort the Jumbled Numbers
 #### 2326. Spiral Matrix IV
+#### 2707. Extra Characters in a String
 #### 2807. Insert Greatest Common Divisors in Linked List
 #### 3217. Delete Nodes From Linked List Present in Array
 
 ### Hard finish 0
 
 
-### Total finish 34
+### Total finish 36
