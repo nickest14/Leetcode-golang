@@ -18,7 +18,7 @@
 #### 2418. Sort the People
 
 
-### Medinum finish 23
+### Medinum finish 25
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -26,6 +26,7 @@
 #### 386. Lexicographical Numbers
 #### 539. Minimum Time Difference
 #### 725. Split Linked List in Parts
+#### 729. My Calendar I
 #### 912. Sort an Array
 #### 1110. Delete Nodes And Return Forest
 #### 1310. XOR Queries of a Subarray
@@ -41,9 +42,10 @@
 #### 2326. Spiral Matrix IV
 #### 2707. Extra Characters in a String
 #### 2807. Insert Greatest Common Divisors in Linked List
+#### 3043. Find the Length of the Longest Common Prefix
 #### 3217. Delete Nodes From Linked List Present in Array
 
 ### Hard finish 0
 
 
-### Total finish 36
+### Total finish 38
