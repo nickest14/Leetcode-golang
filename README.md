@@ -18,15 +18,17 @@
 #### 2418. Sort the People
 
 
-### Medinum finish 25
+### Medinum finish 27
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
 #### 179. Largest Number
 #### 386. Lexicographical Numbers
 #### 539. Minimum Time Difference
+#### 641. Design Circular Deque
 #### 725. Split Linked List in Parts
 #### 729. My Calendar I
+#### 731. My Calendar II
 #### 912. Sort an Array
 #### 1110. Delete Nodes And Return Forest
 #### 1310. XOR Queries of a Subarray
@@ -48,4 +50,4 @@
 ### Hard finish 0
 
 
-### Total finish 38
+### Total finish 40
