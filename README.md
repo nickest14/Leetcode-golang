@@ -18,7 +18,7 @@
 #### 2418. Sort the People
 
 
-### Medinum finish 27
+### Medinum finish 28
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -34,6 +34,7 @@
 #### 1310. XOR Queries of a Subarray
 #### 1367. Linked List in Binary Tree
 #### 1371. Find the Longest Substring Containing Vowels in Even Counts
+#### 1381. Design a Stack With Increment Operation
 #### 1395. Count Number of Teams
 #### 1508. Range Sum of Sorted Subarray Sums
 #### 1530. Number of Good Leaf Nodes Pairs
@@ -50,4 +51,4 @@
 ### Hard finish 0
 
 
-### Total finish 40
+### Total finish 41
