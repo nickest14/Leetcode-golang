@@ -19,13 +19,14 @@
 #### 2418. Sort the People
 
 
-### Medinum finish 30
+### Medinum finish 32
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
 #### 179. Largest Number
 #### 386. Lexicographical Numbers
 #### 539. Minimum Time Difference
+#### 567. Permutation in String
 #### 641. Design Circular Deque
 #### 725. Split Linked List in Parts
 #### 729. My Calendar I
@@ -46,6 +47,7 @@
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2191. Sort the Jumbled Numbers
 #### 2326. Spiral Matrix IV
+#### 2491. Divide Players Into Teams of Equal Skill
 #### 2707. Extra Characters in a String
 #### 2807. Insert Greatest Common Divisors in Linked List
 #### 3043. Find the Length of the Longest Common Prefix
@@ -54,4 +56,4 @@
 ### Hard finish 0
 
 
-### Total finish 44
+### Total finish 46
