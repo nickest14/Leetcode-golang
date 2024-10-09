@@ -20,7 +20,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 33
+### Medinum finish 35
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -33,6 +33,7 @@
 #### 729. My Calendar I
 #### 731. My Calendar II
 #### 912. Sort an Array
+#### 921. Minimum Add to Make Parentheses Valid
 #### 1110. Delete Nodes And Return Forest
 #### 1310. XOR Queries of a Subarray
 #### 1367. Linked List in Binary Tree
@@ -46,6 +47,7 @@
 #### 1653. Minimum Deletions to Make String Balanced
 #### 1813. Sentence Similarity III
 #### 1894. Find the Student that Will Replace the Chalk
+#### 1963. Minimum Number of Swaps to Make the String Balanced
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2191. Sort the Jumbled Numbers
 #### 2326. Spiral Matrix IV
@@ -58,4 +60,4 @@
 ### Hard finish 0
 
 
-### Total finish 48
+### Total finish 50
