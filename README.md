@@ -20,7 +20,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 35
+### Medinum finish 36
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -51,13 +51,14 @@
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2191. Sort the Jumbled Numbers
 #### 2326. Spiral Matrix IV
+#### 2406. Divide Intervals Into Minimum Number of Groups
 #### 2491. Divide Players Into Teams of Equal Skill
 #### 2707. Extra Characters in a String
 #### 2807. Insert Greatest Common Divisors in Linked List
 #### 3043. Find the Length of the Longest Common Prefix
 #### 3217. Delete Nodes From Linked List Present in Array
 
-### Hard finish 0
+### Hard finish 1
+#### 632. Smallest Range Covering Elements from K Lists
 
-
-### Total finish 50
+### Total finish 52
