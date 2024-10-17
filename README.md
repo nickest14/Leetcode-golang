@@ -20,7 +20,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 38
+### Medinum finish 40
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -29,6 +29,7 @@
 #### 539. Minimum Time Difference
 #### 567. Permutation in String
 #### 641. Design Circular Deque
+#### 670. Maximum Swap
 #### 725. Split Linked List in Parts
 #### 729. My Calendar I
 #### 731. My Calendar II
@@ -40,6 +41,7 @@
 #### 1371. Find the Longest Substring Containing Vowels in Even Counts
 #### 1381. Design a Stack With Increment Operation
 #### 1395. Count Number of Teams
+#### 1405. Longest Happy String
 #### 1497. Check If Array Pairs Are Divisible by k
 #### 1508. Range Sum of Sorted Subarray Sums
 #### 1530. Number of Good Leaf Nodes Pairs
@@ -63,4 +65,4 @@
 ### Hard finish 1
 #### 632. Smallest Range Covering Elements from K Lists
 
-### Total finish 54
+### Total finish 56
