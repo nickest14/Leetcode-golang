@@ -20,7 +20,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 40
+### Medinum finish 42
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -45,11 +45,13 @@
 #### 1497. Check If Array Pairs Are Divisible by k
 #### 1508. Range Sum of Sorted Subarray Sums
 #### 1530. Number of Good Leaf Nodes Pairs
+#### 1545. Find Kth Bit in Nth Binary String
 #### 1590. Make Sum Divisible by P
 #### 1653. Minimum Deletions to Make String Balanced
 #### 1813. Sentence Similarity III
 #### 1894. Find the Student that Will Replace the Chalk
 #### 1963. Minimum Number of Swaps to Make the String Balanced
+#### 2044. Count Number of Maximum Bitwise-OR Subsets
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2191. Sort the Jumbled Numbers
 #### 2326. Spiral Matrix IV
@@ -65,4 +67,4 @@
 ### Hard finish 1
 #### 632. Smallest Range Covering Elements from K Lists
 
-### Total finish 56
+### Total finish 58
