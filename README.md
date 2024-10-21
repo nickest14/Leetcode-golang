@@ -20,7 +20,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 42
+### Medinum finish 43
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -47,6 +47,7 @@
 #### 1530. Number of Good Leaf Nodes Pairs
 #### 1545. Find Kth Bit in Nth Binary String
 #### 1590. Make Sum Divisible by P
+#### 1593. Split a String Into the Max Number of Unique Substrings
 #### 1653. Minimum Deletions to Make String Balanced
 #### 1813. Sentence Similarity III
 #### 1894. Find the Student that Will Replace the Chalk
@@ -67,4 +68,4 @@
 ### Hard finish 1
 #### 632. Smallest Range Covering Elements from K Lists
 
-### Total finish 58
+### Total finish 59
