@@ -20,7 +20,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 43
+### Medinum finish 45
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -59,6 +59,8 @@
 #### 2406. Divide Intervals Into Minimum Number of Groups
 #### 2491. Divide Players Into Teams of Equal Skill
 #### 2530. Maximal Score After Applying K Operations
+#### 2583. Kth Largest Sum in a Binary Tree
+#### 2641. Cousins in Binary Tree II
 #### 2707. Extra Characters in a String
 #### 2807. Insert Greatest Common Divisors in Linked List
 #### 2938. Separate Black and White Balls
@@ -68,4 +70,4 @@
 ### Hard finish 1
 #### 632. Smallest Range Covering Elements from K Lists
 
-### Total finish 59
+### Total finish 61
