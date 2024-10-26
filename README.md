@@ -20,7 +20,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 45
+### Medinum finish 47
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -35,7 +35,9 @@
 #### 731. My Calendar II
 #### 912. Sort an Array
 #### 921. Minimum Add to Make Parentheses Valid
+#### 951. Flip Equivalent Binary Trees
 #### 1110. Delete Nodes And Return Forest
+#### 1233. Remove Sub-Folders from the Filesystem
 #### 1310. XOR Queries of a Subarray
 #### 1367. Linked List in Binary Tree
 #### 1371. Find the Longest Substring Containing Vowels in Even Counts
@@ -67,7 +69,8 @@
 #### 3043. Find the Length of the Longest Common Prefix
 #### 3217. Delete Nodes From Linked List Present in Array
 
-### Hard finish 1
+### Hard finish 2
 #### 632. Smallest Range Covering Elements from K Lists
+#### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 61
+### Total finish 64
