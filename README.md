@@ -20,7 +20,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 47
+### Medinum finish 49
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -38,6 +38,7 @@
 #### 951. Flip Equivalent Binary Trees
 #### 1110. Delete Nodes And Return Forest
 #### 1233. Remove Sub-Folders from the Filesystem
+#### 1277. Count Square Submatrices with All Ones
 #### 1310. XOR Queries of a Subarray
 #### 1367. Linked List in Binary Tree
 #### 1371. Find the Longest Substring Containing Vowels in Even Counts
@@ -60,6 +61,7 @@
 #### 2326. Spiral Matrix IV
 #### 2406. Divide Intervals Into Minimum Number of Groups
 #### 2491. Divide Players Into Teams of Equal Skill
+#### 2501. Longest Square Streak in an Array
 #### 2530. Maximal Score After Applying K Operations
 #### 2583. Kth Largest Sum in a Binary Tree
 #### 2641. Cousins in Binary Tree II
@@ -73,4 +75,4 @@
 #### 632. Smallest Range Covering Elements from K Lists
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 64
+### Total finish 66
