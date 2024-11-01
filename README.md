@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 15
+### Easy finish 16
 #### 1. Two Sum
 #### 100. Same Tree
 #### 101. Symmetric Tree
@@ -14,13 +14,14 @@
 #### 1636. Sort Array by Increasing Frequency
 #### 1684. Count the Number of Consistent Strings
 #### 1945. Sum of Digits of String After Convert
+#### 1957. Delete Characters to Make Fancy String
 #### 2022. Convert 1D Array Into 2D Array
 #### 2220. Minimum Bit Flips to Convert Number
 #### 2418. Sort the People
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 49
+### Medinum finish 50
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -65,6 +66,7 @@
 #### 2530. Maximal Score After Applying K Operations
 #### 2583. Kth Largest Sum in a Binary Tree
 #### 2641. Cousins in Binary Tree II
+#### 2684. Maximum Number of Moves in a Grid
 #### 2707. Extra Characters in a String
 #### 2807. Insert Greatest Common Divisors in Linked List
 #### 2938. Separate Black and White Balls
@@ -75,4 +77,4 @@
 #### 632. Smallest Range Covering Elements from K Lists
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 66
+### Total finish 68
