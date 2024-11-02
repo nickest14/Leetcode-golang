@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 16
+### Easy finish 17
 #### 1. Two Sum
 #### 100. Same Tree
 #### 101. Symmetric Tree
@@ -18,6 +18,7 @@
 #### 2022. Convert 1D Array Into 2D Array
 #### 2220. Minimum Bit Flips to Convert Number
 #### 2418. Sort the People
+#### 2490. Circular Sentence
 #### 2696. Minimum String Length After Removing Substrings
 
 
@@ -77,4 +78,4 @@
 #### 632. Smallest Range Covering Elements from K Lists
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 68
+### Total finish 69
