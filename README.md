@@ -24,7 +24,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 51
+### Medinum finish 53
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -72,7 +72,9 @@
 #### 2684. Maximum Number of Moves in a Grid
 #### 2707. Extra Characters in a String
 #### 2807. Insert Greatest Common Divisors in Linked List
+#### 2914. Minimum Number of Changes to Make Binary String Beautiful
 #### 2938. Separate Black and White Balls
+#### 3011. Find if Array Can Be Sorted
 #### 3043. Find the Length of the Longest Common Prefix
 #### 3163. String Compression III
 #### 3217. Delete Nodes From Linked List Present in Array
@@ -81,4 +83,4 @@
 #### 632. Smallest Range Covering Elements from K Lists
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 71
+### Total finish 73
