@@ -24,7 +24,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 53
+### Medinum finish 55
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -57,11 +57,13 @@
 #### 1593. Split a String Into the Max Number of Unique Substrings
 #### 1653. Minimum Deletions to Make String Balanced
 #### 1813. Sentence Similarity III
+#### 1829. Maximum XOR for Each Query
 #### 1894. Find the Student that Will Replace the Chalk
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2191. Sort the Jumbled Numbers
+#### 2275. Largest Combination With Bitwise AND Greater Than Zero
 #### 2326. Spiral Matrix IV
 #### 2406. Divide Intervals Into Minimum Number of Groups
 #### 2491. Divide Players Into Teams of Equal Skill
@@ -83,4 +85,4 @@
 #### 632. Smallest Range Covering Elements from K Lists
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 73
+### Total finish 75
