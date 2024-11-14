@@ -24,7 +24,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 58
+### Medinum finish 60
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -61,6 +61,7 @@
 #### 1894. Find the Student that Will Replace the Chalk
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
+#### 2064. Minimized Maximum of Products Distributed to Any Store
 #### 2070. Most Beautiful Item for Each Query
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2191. Sort the Jumbled Numbers
@@ -70,6 +71,7 @@
 #### 2491. Divide Players Into Teams of Equal Skill
 #### 2501. Longest Square Streak in an Array
 #### 2530. Maximal Score After Applying K Operations
+#### 2563. Count the Number of Fair Pairs
 #### 2583. Kth Largest Sum in a Binary Tree
 #### 2601. Prime Subtraction Operation
 #### 2641. Cousins in Binary Tree II
@@ -88,4 +90,4 @@
 #### 632. Smallest Range Covering Elements from K Lists
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 78
+### Total finish 80
