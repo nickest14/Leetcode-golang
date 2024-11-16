@@ -24,7 +24,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 60
+### Medinum finish 62
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -53,6 +53,7 @@
 #### 1508. Range Sum of Sorted Subarray Sums
 #### 1530. Number of Good Leaf Nodes Pairs
 #### 1545. Find Kth Bit in Nth Binary String
+#### 1574. Shortest Subarray to be Removed to Make Array Sorted
 #### 1590. Make Sum Divisible by P
 #### 1593. Split a String Into the Max Number of Unique Substrings
 #### 1653. Minimum Deletions to Make String Balanced
@@ -85,9 +86,10 @@
 #### 3097. Shortest Subarray With OR at Least K II
 #### 3163. String Compression III
 #### 3217. Delete Nodes From Linked List Present in Array
+#### 3254. Find the Power of K-Size Subarrays I
 
 ### Hard finish 2
 #### 632. Smallest Range Covering Elements from K Lists
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 80
+### Total finish 82
