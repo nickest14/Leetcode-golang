@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 18
+### Easy finish 19
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -14,6 +14,7 @@
 #### 1331. Rank Transform of an Array
 #### 1460. Make Two Arrays Equal by Reversing Subarrays
 #### 1636. Sort Array by Increasing Frequency
+#### 1652. Defuse the Bomb
 #### 1684. Count the Number of Consistent Strings
 #### 1945. Sum of Digits of String After Convert
 #### 1957. Delete Characters to Make Fancy String
@@ -88,8 +89,9 @@
 #### 3217. Delete Nodes From Linked List Present in Array
 #### 3254. Find the Power of K-Size Subarrays I
 
-### Hard finish 2
+### Hard finish 3
 #### 632. Smallest Range Covering Elements from K Lists
+#### 862. Shortest Subarray with Sum at Least K
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 82
+### Total finish 84
