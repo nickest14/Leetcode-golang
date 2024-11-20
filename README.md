@@ -25,7 +25,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 62
+### Medinum finish 64
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -70,8 +70,10 @@
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
 #### 2326. Spiral Matrix IV
 #### 2406. Divide Intervals Into Minimum Number of Groups
+#### 2461. Maximum Sum of Distinct Subarrays With Length K
 #### 2491. Divide Players Into Teams of Equal Skill
 #### 2501. Longest Square Streak in an Array
+#### 2516. Take K of Each Character From Left and Right
 #### 2530. Maximal Score After Applying K Operations
 #### 2563. Count the Number of Fair Pairs
 #### 2583. Kth Largest Sum in a Binary Tree
@@ -94,4 +96,4 @@
 #### 862. Shortest Subarray with Sum at Least K
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 84
+### Total finish 86
