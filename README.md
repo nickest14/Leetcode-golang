@@ -25,7 +25,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 64
+### Medinum finish 66
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -41,6 +41,7 @@
 #### 912. Sort an Array
 #### 921. Minimum Add to Make Parentheses Valid
 #### 951. Flip Equivalent Binary Trees
+#### 1072. Flip Columns For Maximum Number of Equal Rows
 #### 1110. Delete Nodes And Return Forest
 #### 1233. Remove Sub-Folders from the Filesystem
 #### 1277. Count Square Submatrices with All Ones
@@ -67,6 +68,7 @@
 #### 2070. Most Beautiful Item for Each Query
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2191. Sort the Jumbled Numbers
+#### 2257. Count Unguarded Cells in the Grid
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
 #### 2326. Spiral Matrix IV
 #### 2406. Divide Intervals Into Minimum Number of Groups
@@ -96,4 +98,4 @@
 #### 862. Shortest Subarray with Sum at Least K
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 86
+### Total finish 88
