@@ -25,7 +25,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 66
+### Medinum finish 68
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -61,8 +61,10 @@
 #### 1653. Minimum Deletions to Make String Balanced
 #### 1813. Sentence Similarity III
 #### 1829. Maximum XOR for Each Query
+#### 1861. Rotating the Box
 #### 1894. Find the Student that Will Replace the Chalk
 #### 1963. Minimum Number of Swaps to Make the String Balanced
+#### 1975. Maximum Matrix Sum
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
 #### 2064. Minimized Maximum of Products Distributed to Any Store
 #### 2070. Most Beautiful Item for Each Query
@@ -98,4 +100,4 @@
 #### 862. Shortest Subarray with Sum at Least K
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 88
+### Total finish 90
