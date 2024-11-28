@@ -25,7 +25,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 69
+### Medinum finish 70
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -94,12 +94,14 @@
 #### 3097. Shortest Subarray With OR at Least K II
 #### 3163. String Compression III
 #### 3217. Delete Nodes From Linked List Present in Array
+#### 3243. Shortest Distance After Road Addition Queries I
 #### 3254. Find the Power of K-Size Subarrays I
 
-### Hard finish 4
+### Hard finish 5
 #### 632. Smallest Range Covering Elements from K Lists
 #### 773. Sliding Puzzle
 #### 862. Shortest Subarray with Sum at Least K
+#### 2290. Minimum Obstacle Removal to Reach Corner
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 92
+### Total finish 94
