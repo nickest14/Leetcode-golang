@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 19
+### Easy finish 20
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -46,6 +46,7 @@
 #### 1233. Remove Sub-Folders from the Filesystem
 #### 1277. Count Square Submatrices with All Ones
 #### 1310. XOR Queries of a Subarray
+#### 1346. Check If N and Its Double Exist
 #### 1367. Linked List in Binary Tree
 #### 1371. Find the Longest Substring Containing Vowels in Even Counts
 #### 1381. Design a Stack With Increment Operation
@@ -104,4 +105,4 @@
 #### 2290. Minimum Obstacle Removal to Reach Corner
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 94
+### Total finish 95
