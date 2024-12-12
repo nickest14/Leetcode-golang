@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 21
+### Easy finish 22
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -23,10 +23,11 @@
 #### 2220. Minimum Bit Flips to Convert Number
 #### 2418. Sort the People
 #### 2490. Circular Sentence
+#### 2558. Take Gifts From the Richest Pile
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 77
+### Medinum finish 78
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -91,6 +92,7 @@
 #### 2641. Cousins in Binary Tree II
 #### 2684. Maximum Number of Moves in a Grid
 #### 2707. Extra Characters in a String
+#### 2779. Maximum Beauty of an Array After Applying Operation
 #### 2807. Insert Greatest Common Divisors in Linked List
 #### 2825. Make String a Subsequence Using Cyclic Increments
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
@@ -113,4 +115,4 @@
 #### 2290. Minimum Obstacle Removal to Reach Corner
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 103
+### Total finish 105
