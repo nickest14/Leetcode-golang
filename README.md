@@ -27,7 +27,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 
-### Medinum finish 78
+### Medinum finish 80
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -88,10 +88,12 @@
 #### 2554. Maximum Number of Integers to Choose From a Range I
 #### 2563. Count the Number of Fair Pairs
 #### 2583. Kth Largest Sum in a Binary Tree
+#### 2593. Find Score of an Array After Marking All Elements
 #### 2601. Prime Subtraction Operation
 #### 2641. Cousins in Binary Tree II
 #### 2684. Maximum Number of Moves in a Grid
 #### 2707. Extra Characters in a String
+#### 2762. Continuous Subarrays
 #### 2779. Maximum Beauty of an Array After Applying Operation
 #### 2807. Insert Greatest Common Divisors in Linked List
 #### 2825. Make String a Subsequence Using Cyclic Increments
@@ -115,4 +117,4 @@
 #### 2290. Minimum Obstacle Removal to Reach Corner
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 105
+### Total finish 107
