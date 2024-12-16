@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 22
+### Easy finish 23
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -25,9 +25,9 @@
 #### 2490. Circular Sentence
 #### 2558. Take Gifts From the Richest Pile
 #### 2696. Minimum String Length After Removing Substrings
+#### 3264. Final Array State After K Multiplication Operations I
 
-
-### Medinum finish 80
+### Medinum finish 81
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -63,6 +63,7 @@
 #### 1593. Split a String Into the Max Number of Unique Substrings
 #### 1653. Minimum Deletions to Make String Balanced
 #### 1760. Minimum Limit of Balls in a Bag
+#### 1792. Maximum Average Pass Ratio
 #### 1813. Sentence Similarity III
 #### 1829. Maximum XOR for Each Query
 #### 1861. Rotating the Box
@@ -117,4 +118,4 @@
 #### 2290. Minimum Obstacle Removal to Reach Corner
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 107
+### Total finish 109

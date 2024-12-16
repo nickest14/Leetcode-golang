@@ -10,13 +10,13 @@ type params struct {
 	k     int
 }
 
-type question258 struct {
+type question2558 struct {
 	params
 	ans int64
 }
 
-func Test_Problem258(t *testing.T) {
-	qs := []question258{
+func Test_Problem2558(t *testing.T) {
+	qs := []question2558{
 		{
 			params{gifts: []int{25, 64, 9, 4, 100}, k: 4},
 			29,
