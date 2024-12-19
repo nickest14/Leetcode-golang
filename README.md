@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 23
+### Easy finish 24
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -14,6 +14,7 @@
 #### 1331. Rank Transform of an Array
 #### 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
 #### 1460. Make Two Arrays Equal by Reversing Subarrays
+#### 1475. Final Prices With a Special Discount in a Shop
 #### 1636. Sort Array by Increasing Frequency
 #### 1652. Defuse the Bomb
 #### 1684. Count the Number of Consistent Strings
@@ -27,7 +28,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 81
+### Medinum finish 82
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -76,6 +77,7 @@
 #### 2070. Most Beautiful Item for Each Query
 #### 2109. Adding Spaces to a String
 #### 2134. Minimum Swaps to Group All 1's Together II
+#### 2182. Construct String With Repeat Limit
 #### 2191. Sort the Jumbled Numbers
 #### 2257. Count Unguarded Cells in the Grid
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
@@ -118,4 +120,4 @@
 #### 2290. Minimum Obstacle Removal to Reach Corner
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
-### Total finish 109
+### Total finish 111
