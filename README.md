@@ -28,7 +28,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 84
+### Medinum finish 85
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -86,6 +86,7 @@
 #### 2406. Divide Intervals Into Minimum Number of Groups
 #### 2415. Reverse Odd Levels of Binary Tree
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
+#### 2471. Minimum Number of Operations to Sort a Binary Tree by Level
 #### 2491. Divide Players Into Teams of Equal Skill
 #### 2501. Longest Square Streak in an Array
 #### 2516. Take K of Each Character From Left and Right
@@ -124,4 +125,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 115
+### Total finish 116
