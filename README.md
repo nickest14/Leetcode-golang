@@ -28,12 +28,14 @@
 #### 2696. Minimum String Length After Removing Substrings
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 85
+### Medinum finish 88
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
 #### 179. Largest Number
 #### 386. Lexicographical Numbers
+#### 494. Target Sum
+#### 515. Find Largest Value in Each Tree Row
 #### 539. Minimum Time Difference
 #### 567. Permutation in String
 #### 641. Design Circular Deque
@@ -45,6 +47,7 @@
 #### 912. Sort an Array
 #### 921. Minimum Add to Make Parentheses Valid
 #### 951. Flip Equivalent Binary Trees
+#### 1014. Best Sightseeing Pair
 #### 1072. Flip Columns For Maximum Number of Equal Rows
 #### 1110. Delete Nodes And Return Forest
 #### 1233. Remove Sub-Folders from the Filesystem
@@ -125,4 +128,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 116
+### Total finish 119
