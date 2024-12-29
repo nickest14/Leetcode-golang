@@ -119,13 +119,14 @@
 #### 3243. Shortest Distance After Road Addition Queries I
 #### 3254. Find the Power of K-Size Subarrays I
 
-### Hard finish 7
+### Hard finish 8
 #### 632. Smallest Range Covering Elements from K Lists
 #### 773. Sliding Puzzle
 #### 862. Shortest Subarray with Sum at Least K
+#### 1639. Number of Ways to Form a Target String Given a Dictionary
 #### 2290. Minimum Obstacle Removal to Reach Corner
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 119
+### Total finish 120
