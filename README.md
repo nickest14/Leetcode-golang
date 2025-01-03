@@ -29,7 +29,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 89
+### Medinum finish 91
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -85,6 +85,7 @@
 #### 2182. Construct String With Repeat Limit
 #### 2191. Sort the Jumbled Numbers
 #### 2257. Count Unguarded Cells in the Grid
+#### 2270. Number of Ways to Split Array
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
 #### 2326. Spiral Matrix IV
 #### 2406. Divide Intervals Into Minimum Number of Groups
@@ -97,6 +98,7 @@
 #### 2516. Take K of Each Character From Left and Right
 #### 2530. Maximal Score After Applying K Operations
 #### 2554. Maximum Number of Integers to Choose From a Range I
+#### 2559. Count Vowel Strings in Ranges
 #### 2563. Count the Number of Fair Pairs
 #### 2583. Kth Largest Sum in a Binary Tree
 #### 2593. Find Score of an Array After Marking All Elements
@@ -131,4 +133,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 122
+### Total finish 124
