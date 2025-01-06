@@ -29,7 +29,7 @@
 #### 2696. Minimum String Length After Removing Substrings
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 91
+### Medinum finish 94
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -69,11 +69,13 @@
 #### 1593. Split a String Into the Max Number of Unique Substrings
 #### 1653. Minimum Deletions to Make String Balanced
 #### 1760. Minimum Limit of Balls in a Bag
+#### 1769. Minimum Number of Operations to Move All Balls to Each Box
 #### 1792. Maximum Average Pass Ratio
 #### 1813. Sentence Similarity III
 #### 1829. Maximum XOR for Each Query
 #### 1861. Rotating the Box
 #### 1894. Find the Student that Will Replace the Chalk
+#### 1930. Unique Length-3 Palindromic Subsequences
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 #### 1975. Maximum Matrix Sum
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
@@ -88,6 +90,7 @@
 #### 2270. Number of Ways to Split Array
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
 #### 2326. Spiral Matrix IV
+#### 2381. Shifting Letters II
 #### 2406. Divide Intervals Into Minimum Number of Groups
 #### 2415. Reverse Odd Levels of Binary Tree
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
@@ -133,4 +136,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 124
+### Total finish 127
