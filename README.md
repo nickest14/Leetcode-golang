@@ -32,7 +32,7 @@
 #### 3042. Count Prefix and Suffix Pairs I
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 95
+### Medinum finish 97
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -63,6 +63,7 @@
 #### 1371. Find the Longest Substring Containing Vowels in Even Counts
 #### 1381. Design a Stack With Increment Operation
 #### 1395. Count Number of Teams
+#### 1400. Construct K Palindrome Strings
 #### 1405. Longest Happy String
 #### 1497. Check If Array Pairs Are Divisible by k
 #### 1508. Range Sum of Sorted Subarray Sums
@@ -87,6 +88,7 @@
 #### 2064. Minimized Maximum of Products Distributed to Any Store
 #### 2070. Most Beautiful Item for Each Query
 #### 2109. Adding Spaces to a String
+#### 2116. Check if a Parentheses String Can Be Valid
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2182. Construct String With Repeat Limit
 #### 2191. Sort the Jumbled Numbers
@@ -140,4 +142,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 131
+### Total finish 133
