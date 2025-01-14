@@ -32,7 +32,7 @@
 #### 3042. Count Prefix and Suffix Pairs I
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 97
+### Medinum finish 99
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -113,6 +113,7 @@
 #### 2593. Find Score of an Array After Marking All Elements
 #### 2601. Prime Subtraction Operation
 #### 2641. Cousins in Binary Tree II
+#### 2657. Find the Prefix Common Array of Two Arrays
 #### 2684. Maximum Number of Moves in a Grid
 #### 2707. Extra Characters in a String
 #### 2762. Continuous Subarrays
@@ -129,6 +130,7 @@
 #### 3152. Special Array II
 #### 3163. String Compression III
 #### 3217. Delete Nodes From Linked List Present in Array
+#### 3223. Minimum Length of String After Operations
 #### 3243. Shortest Distance After Road Addition Queries I
 #### 3254. Find the Power of K-Size Subarrays I
 
@@ -142,4 +144,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 133
+### Total finish 135
