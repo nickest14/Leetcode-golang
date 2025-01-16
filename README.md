@@ -32,7 +32,7 @@
 #### 3042. Count Prefix and Suffix Pairs I
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 99
+### Medinum finish 101
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -99,6 +99,8 @@
 #### 2381. Shifting Letters II
 #### 2406. Divide Intervals Into Minimum Number of Groups
 #### 2415. Reverse Odd Levels of Binary Tree
+#### 2425. Bitwise XOR of All Pairings
+#### 2429. Minimize XOR
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
 #### 2466. Count Ways To Build Good Strings
 #### 2471. Minimum Number of Operations to Sort a Binary Tree by Level
@@ -144,4 +146,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 135
+### Total finish 137
