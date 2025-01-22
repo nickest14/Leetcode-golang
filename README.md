@@ -32,7 +32,7 @@
 #### 3042. Count Prefix and Suffix Pairs I
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 103
+### Medinum finish 105
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -74,6 +74,7 @@
 #### 1593. Split a String Into the Max Number of Unique Substrings
 #### 1653. Minimum Deletions to Make String Balanced
 #### 1760. Minimum Limit of Balls in a Bag
+#### 1765. Map of Highest Peak
 #### 1769. Minimum Number of Operations to Move All Balls to Each Box
 #### 1792. Maximum Average Pass Ratio
 #### 1813. Sentence Similarity III
@@ -83,6 +84,7 @@
 #### 1930. Unique Length-3 Palindromic Subsequences
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 #### 1975. Maximum Matrix Sum
+#### 2017. Grid Game
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
 #### 2054. Two Best Non-Overlapping Events
 #### 2064. Minimized Maximum of Products Distributed to Any Store
@@ -150,4 +152,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 141
+### Total finish 143
