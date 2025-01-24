@@ -32,7 +32,7 @@
 #### 3042. Count Prefix and Suffix Pairs I
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 105
+### Medinum finish 107
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -48,6 +48,7 @@
 #### 729. My Calendar I
 #### 731. My Calendar II
 #### 769. Max Chunks To Make Sorted
+#### 802. Find Eventual Safe States
 #### 912. Sort an Array
 #### 916. Word Subsets
 #### 921. Minimum Add to Make Parentheses Valid
@@ -56,6 +57,7 @@
 #### 1072. Flip Columns For Maximum Number of Equal Rows
 #### 1110. Delete Nodes And Return Forest
 #### 1233. Remove Sub-Folders from the Filesystem
+#### 1267. Count Servers that Communicate
 #### 1277. Count Square Submatrices with All Ones
 #### 1310. XOR Queries of a Subarray
 #### 1346. Check If N and Its Double Exist
@@ -152,4 +154,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 143
+### Total finish 145
