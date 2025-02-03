@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 28
+### Easy finish 31
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -20,6 +20,7 @@
 #### 1636. Sort Array by Increasing Frequency
 #### 1652. Defuse the Bomb
 #### 1684. Count the Number of Consistent Strings
+#### 1752. Check if Array Is Sorted and Rotated
 #### 1945. Sum of Digits of String After Convert
 #### 1957. Delete Characters to Make Fancy String
 #### 2022. Convert 1D Array Into 2D Array
@@ -30,6 +31,8 @@
 #### 2558. Take Gifts From the Richest Pile
 #### 2696. Minimum String Length After Removing Substrings
 #### 3042. Count Prefix and Suffix Pairs I
+#### 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
+#### 3151. Special Array I
 #### 3264. Final Array State After K Multiplication Operations I
 
 ### Medinum finish 107
@@ -154,4 +157,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 145
+### Total finish 148
