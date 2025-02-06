@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 31
+### Easy finish 33
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -21,6 +21,8 @@
 #### 1652. Defuse the Bomb
 #### 1684. Count the Number of Consistent Strings
 #### 1752. Check if Array Is Sorted and Rotated
+#### 1790. Check if One String Swap Can Make Strings Equal
+#### 1800. Maximum Ascending Subarray Sum
 #### 1945. Sum of Digits of String After Convert
 #### 1957. Delete Characters to Make Fancy String
 #### 2022. Convert 1D Array Into 2D Array
@@ -35,7 +37,7 @@
 #### 3151. Special Array I
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 107
+### Medinum finish 108
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -78,6 +80,7 @@
 #### 1590. Make Sum Divisible by P
 #### 1593. Split a String Into the Max Number of Unique Substrings
 #### 1653. Minimum Deletions to Make String Balanced
+#### 1726. Tuple with Same Product
 #### 1760. Minimum Limit of Balls in a Bag
 #### 1765. Map of Highest Peak
 #### 1769. Minimum Number of Operations to Move All Balls to Each Box
@@ -157,4 +160,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 148
+### Total finish 151
