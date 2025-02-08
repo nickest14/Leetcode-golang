@@ -37,7 +37,7 @@
 #### 3151. Special Array I
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 108
+### Medinum finish 110
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -106,6 +106,7 @@
 #### 2270. Number of Ways to Split Array
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
 #### 2326. Spiral Matrix IV
+#### 2349. Design a Number Container System
 #### 2381. Shifting Letters II
 #### 2406. Divide Intervals Into Minimum Number of Groups
 #### 2415. Reverse Odd Levels of Binary Tree
@@ -142,6 +143,7 @@
 #### 3043. Find the Length of the Longest Common Prefix
 #### 3097. Shortest Subarray With OR at Least K II
 #### 3152. Special Array II
+#### 3160. Find the Number of Distinct Colors Among the Balls
 #### 3163. String Compression III
 #### 3217. Delete Nodes From Linked List Present in Array
 #### 3223. Minimum Length of String After Operations
@@ -160,4 +162,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 151
+### Total finish 153
