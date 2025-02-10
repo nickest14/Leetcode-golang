@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 33
+### Easy finish 34
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -35,9 +35,10 @@
 #### 3042. Count Prefix and Suffix Pairs I
 #### 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
 #### 3151. Special Array I
+#### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 110
+### Medinum finish 111
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -107,6 +108,7 @@
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
 #### 2326. Spiral Matrix IV
 #### 2349. Design a Number Container System
+#### 2364. Count Number of Bad Pairs
 #### 2381. Shifting Letters II
 #### 2406. Divide Intervals Into Minimum Number of Groups
 #### 2415. Reverse Odd Levels of Binary Tree
@@ -162,4 +164,4 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 153
+### Total finish 155
