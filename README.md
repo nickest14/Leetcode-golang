@@ -38,7 +38,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 111
+### Medinum finish 113
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -90,6 +90,7 @@
 #### 1829. Maximum XOR for Each Query
 #### 1861. Rotating the Box
 #### 1894. Find the Student that Will Replace the Chalk
+#### 1910. Remove All Occurrences of a Substring
 #### 1930. Unique Length-3 Palindromic Subsequences
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 #### 1975. Maximum Matrix Sum
@@ -107,6 +108,7 @@
 #### 2270. Number of Ways to Split Array
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
 #### 2326. Spiral Matrix IV
+#### 2342. Max Sum of a Pair With Equal Sum of Digits
 #### 2349. Design a Number Container System
 #### 2364. Count Number of Bad Pairs
 #### 2381. Shifting Letters II
@@ -164,4 +166,5 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
-### Total finish 155
+
+### Total finish 157
