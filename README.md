@@ -38,7 +38,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 113
+### Medinum finish 115
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -67,6 +67,7 @@
 #### 1277. Count Square Submatrices with All Ones
 #### 1310. XOR Queries of a Subarray
 #### 1346. Check If N and Its Double Exist
+#### 1352. Product of the Last K Numbers
 #### 1367. Linked List in Binary Tree
 #### 1371. Find the Longest Substring Containing Vowels in Even Counts
 #### 1381. Design a Stack With Increment Operation
@@ -145,6 +146,7 @@
 #### 2981. Find Longest Special Substring That Occurs Thrice I
 #### 3011. Find if Array Can Be Sorted
 #### 3043. Find the Length of the Longest Common Prefix
+#### 3066. Minimum Operations to Exceed Threshold Value II
 #### 3097. Shortest Subarray With OR at Least K II
 #### 3152. Special Array II
 #### 3160. Find the Number of Distinct Colors Among the Balls
@@ -167,4 +169,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 157
+### Total finish 159
