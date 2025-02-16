@@ -38,7 +38,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 115
+### Medinum finish 117
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -82,6 +82,7 @@
 #### 1590. Make Sum Divisible by P
 #### 1593. Split a String Into the Max Number of Unique Substrings
 #### 1653. Minimum Deletions to Make String Balanced
+#### 1718. Construct the Lexicographically Largest Valid Sequence
 #### 1726. Tuple with Same Product
 #### 1760. Minimum Limit of Balls in a Bag
 #### 1765. Map of Highest Peak
@@ -135,6 +136,7 @@
 #### 2661. First Completely Painted Row or Column
 #### 2683. Neighboring Bitwise XOR
 #### 2684. Maximum Number of Moves in a Grid
+#### 2698. Find the Punishment Number of an Integer
 #### 2707. Extra Characters in a String
 #### 2762. Continuous Subarrays
 #### 2779. Maximum Beauty of an Array After Applying Operation
@@ -169,4 +171,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 159
+### Total finish 161
