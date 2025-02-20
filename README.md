@@ -38,7 +38,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 119
+### Medinum finish 121
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -75,6 +75,7 @@
 #### 1395. Count Number of Teams
 #### 1400. Construct K Palindrome Strings
 #### 1405. Longest Happy String
+#### 1415. The k-th Lexicographical String of All Happy Strings of Length n
 #### 1497. Check If Array Pairs Are Divisible by k
 #### 1508. Range Sum of Sorted Subarray Sums
 #### 1530. Number of Good Leaf Nodes Pairs
@@ -97,6 +98,7 @@
 #### 1930. Unique Length-3 Palindromic Subsequences
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 #### 1975. Maximum Matrix Sum
+#### 1980. Find Unique Binary String
 #### 2017. Grid Game
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
 #### 2054. Two Best Non-Overlapping Events
@@ -173,4 +175,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 163
+### Total finish 165
