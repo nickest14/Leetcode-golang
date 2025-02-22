@@ -38,7 +38,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 121
+### Medinum finish 122
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -64,6 +64,7 @@
 #### 1079. Letter Tile Possibilities
 #### 1110. Delete Nodes And Return Forest
 #### 1233. Remove Sub-Folders from the Filesystem
+#### 1261. Find Elements in a Contaminated Binary Tree
 #### 1267. Count Servers that Communicate
 #### 1277. Count Square Submatrices with All Ones
 #### 1310. XOR Queries of a Subarray
@@ -162,11 +163,12 @@
 #### 3243. Shortest Distance After Road Addition Queries I
 #### 3254. Find the Power of K-Size Subarrays I
 
-### Hard finish 10
+### Hard finish 11
 #### 407. Trapping Rain Water II
 #### 632. Smallest Range Covering Elements from K Lists
 #### 773. Sliding Puzzle
 #### 862. Shortest Subarray with Sum at Least K
+#### 1028. Recover a Tree From Preorder Traversal
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
 #### 2290. Minimum Obstacle Removal to Reach Corner
@@ -175,4 +177,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 165
+### Total finish 167
