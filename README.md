@@ -38,7 +38,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 122
+### Medinum finish 126
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -55,6 +55,8 @@
 #### 731. My Calendar II
 #### 769. Max Chunks To Make Sorted
 #### 802. Find Eventual Safe States
+#### 873. Length of Longest Fibonacci Subsequence
+#### 889. Construct Binary Tree from Preorder and Postorder Traversal
 #### 912. Sort an Array
 #### 916. Word Subsets
 #### 921. Minimum Add to Make Parentheses Valid
@@ -79,6 +81,7 @@
 #### 1415. The k-th Lexicographical String of All Happy Strings of Length n
 #### 1497. Check If Array Pairs Are Divisible by k
 #### 1508. Range Sum of Sorted Subarray Sums
+#### 1524. Number of Sub-arrays With Odd Sum
 #### 1530. Number of Good Leaf Nodes Pairs
 #### 1545. Find Kth Bit in Nth Binary String
 #### 1574. Shortest Subarray to be Removed to Make Array Sorted
@@ -87,6 +90,7 @@
 #### 1653. Minimum Deletions to Make String Balanced
 #### 1718. Construct the Lexicographically Largest Valid Sequence
 #### 1726. Tuple with Same Product
+#### 1749. Maximum Absolute Sum of Any Subarray
 #### 1760. Minimum Limit of Balls in a Bag
 #### 1765. Map of Highest Peak
 #### 1769. Minimum Number of Operations to Move All Balls to Each Box
@@ -177,4 +181,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 167
+### Total finish 171
