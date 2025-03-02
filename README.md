@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 35
+### Easy finish 36
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -32,6 +32,7 @@
 #### 2460. Apply Operations to an Array
 #### 2490. Circular Sentence
 #### 2558. Take Gifts From the Richest Pile
+#### 2570. Merge Two 2D Arrays by Summing Values
 #### 2696. Minimum String Length After Removing Substrings
 #### 3042. Count Prefix and Suffix Pairs I
 #### 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
@@ -183,4 +184,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 173
+### Total finish 174
