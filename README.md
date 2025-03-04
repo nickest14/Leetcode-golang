@@ -40,7 +40,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 127
+### Medinum finish 129
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -97,6 +97,7 @@
 #### 1760. Minimum Limit of Balls in a Bag
 #### 1765. Map of Highest Peak
 #### 1769. Minimum Number of Operations to Move All Balls to Each Box
+#### 1780. Check if Number is a Sum of Powers of Three
 #### 1792. Maximum Average Pass Ratio
 #### 1813. Sentence Similarity III
 #### 1829. Maximum XOR for Each Query
@@ -115,6 +116,7 @@
 #### 2109. Adding Spaces to a String
 #### 2116. Check if a Parentheses String Can Be Valid
 #### 2134. Minimum Swaps to Group All 1's Together II
+#### 2161. Partition Array According to Given Pivot
 #### 2182. Construct String With Repeat Limit
 #### 2191. Sort the Jumbled Numbers
 #### 2257. Count Unguarded Cells in the Grid
@@ -184,4 +186,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 174
+### Total finish 176
