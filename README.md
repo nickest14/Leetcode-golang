@@ -42,7 +42,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 131
+### Medinum finish 133
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -171,10 +171,12 @@
 #### 3152. Special Array II
 #### 3160. Find the Number of Distinct Colors Among the Balls
 #### 3163. String Compression III
+#### 3208. Alternating Groups II
 #### 3217. Delete Nodes From Linked List Present in Array
 #### 3223. Minimum Length of String After Operations
 #### 3243. Shortest Distance After Road Addition Queries I
 #### 3254. Find the Power of K-Size Subarrays I
+#### 3306. Count of Substrings Containing Every Vowel and K Consonants II
 
 ### Hard finish 11
 #### 407. Trapping Rain Water II
@@ -190,4 +192,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 180
+### Total finish 182
