@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 38
+### Easy finish 39
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -32,6 +32,7 @@
 #### 2418. Sort the People
 #### 2460. Apply Operations to an Array
 #### 2490. Circular Sentence
+#### 2529. Maximum Count of Positive Integer and Negative Integer
 #### 2558. Take Gifts From the Richest Pile
 #### 2570. Merge Two 2D Arrays by Summing Values
 #### 2696. Minimum String Length After Removing Substrings
@@ -42,7 +43,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 133
+### Medinum finish 134
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -77,6 +78,7 @@
 #### 1310. XOR Queries of a Subarray
 #### 1346. Check If N and Its Double Exist
 #### 1352. Product of the Last K Numbers
+#### 1358. Number of Substrings Containing All Three Characters
 #### 1367. Linked List in Binary Tree
 #### 1371. Find the Longest Substring Containing Vowels in Even Counts
 #### 1381. Design a Stack With Increment Operation
@@ -192,4 +194,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 182
+### Total finish 184
