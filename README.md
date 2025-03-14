@@ -43,7 +43,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 134
+### Medinum finish 136
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -123,6 +123,7 @@
 #### 2161. Partition Array According to Given Pivot
 #### 2182. Construct String With Repeat Limit
 #### 2191. Sort the Jumbled Numbers
+#### 2226. Maximum Candies Allocated to K Children
 #### 2257. Count Unguarded Cells in the Grid
 #### 2270. Number of Ways to Split Array
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
@@ -179,6 +180,7 @@
 #### 3243. Shortest Distance After Road Addition Queries I
 #### 3254. Find the Power of K-Size Subarrays I
 #### 3306. Count of Substrings Containing Every Vowel and K Consonants II
+#### 3356. Zero Array Transformation II
 
 ### Hard finish 11
 #### 407. Trapping Rain Water II
@@ -194,4 +196,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 184
+### Total finish 186
