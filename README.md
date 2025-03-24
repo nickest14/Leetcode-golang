@@ -43,7 +43,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 138
+### Medinum finish 140
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -111,6 +111,7 @@
 #### 1930. Unique Length-3 Palindromic Subsequences
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 #### 1975. Maximum Matrix Sum
+#### 1976. Number of Ways to Arrive at Destination
 #### 1980. Find Unique Binary String
 #### 2017. Grid Game
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
@@ -176,6 +177,7 @@
 #### 3152. Special Array II
 #### 3160. Find the Number of Distinct Colors Among the Balls
 #### 3163. String Compression III
+#### 3169. Count Days Without Meetings
 #### 3208. Alternating Groups II
 #### 3217. Delete Nodes From Linked List Present in Array
 #### 3223. Minimum Length of String After Operations
@@ -198,4 +200,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 188
+### Total finish 190
