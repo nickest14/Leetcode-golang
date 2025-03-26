@@ -43,7 +43,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 140
+### Medinum finish 142
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -114,6 +114,7 @@
 #### 1976. Number of Ways to Arrive at Destination
 #### 1980. Find Unique Binary String
 #### 2017. Grid Game
+#### 2033. Minimum Operations to Make a Uni-Value Grid
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
 #### 2054. Two Best Non-Overlapping Events
 #### 2064. Minimized Maximum of Products Distributed to Any Store
@@ -185,6 +186,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 #### 3306. Count of Substrings Containing Every Vowel and K Consonants II
 #### 3356. Zero Array Transformation II
+#### 3394. Check if Grid can be Cut into Sections
 
 ### Hard finish 11
 #### 407. Trapping Rain Water II
@@ -200,4 +202,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 190
+### Total finish 192
