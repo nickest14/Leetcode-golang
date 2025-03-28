@@ -43,7 +43,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 142
+### Medinum finish 143
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -165,6 +165,7 @@
 #### 2707. Extra Characters in a String
 #### 2762. Continuous Subarrays
 #### 2779. Maximum Beauty of an Array After Applying Operation
+#### 2780. Minimum Index of a Valid Split
 #### 2807. Insert Greatest Common Divisors in Linked List
 #### 2825. Make String a Subsequence Using Cyclic Increments
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
@@ -188,7 +189,7 @@
 #### 3356. Zero Array Transformation II
 #### 3394. Check if Grid can be Cut into Sections
 
-### Hard finish 11
+### Hard finish 12
 #### 407. Trapping Rain Water II
 #### 632. Smallest Range Covering Elements from K Lists
 #### 773. Sliding Puzzle
@@ -198,8 +199,9 @@
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
 #### 2290. Minimum Obstacle Removal to Reach Corner
 #### 2458. Height of Binary Tree After Subtree Removal Queries
+#### 2503. Maximum Number of Points From Grid Queries
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 192
+### Total finish 194
