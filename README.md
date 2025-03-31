@@ -43,7 +43,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 143
+### Medinum finish 144
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -58,6 +58,7 @@
 #### 725. Split Linked List in Parts
 #### 729. My Calendar I
 #### 731. My Calendar II
+#### 763. Partition Labels
 #### 769. Max Chunks To Make Sorted
 #### 802. Find Eventual Safe States
 #### 873. Length of Longest Fibonacci Subsequence
@@ -189,7 +190,7 @@
 #### 3356. Zero Array Transformation II
 #### 3394. Check if Grid can be Cut into Sections
 
-### Hard finish 12
+### Hard finish 13
 #### 407. Trapping Rain Water II
 #### 632. Smallest Range Covering Elements from K Lists
 #### 773. Sliding Puzzle
@@ -200,8 +201,9 @@
 #### 2290. Minimum Obstacle Removal to Reach Corner
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 #### 2503. Maximum Number of Points From Grid Queries
+#### 2551. Put Marbles in Bags
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 194
+### Total finish 196
