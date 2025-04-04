@@ -44,7 +44,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 145
+### Medinum finish 147
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -73,6 +73,7 @@
 #### 1072. Flip Columns For Maximum Number of Equal Rows
 #### 1079. Letter Tile Possibilities
 #### 1110. Delete Nodes And Return Forest
+#### 1123. Lowest Common Ancestor of Deepest Leaves
 #### 1233. Remove Sub-Folders from the Filesystem
 #### 1261. Find Elements in a Contaminated Binary Tree
 #### 1267. Count Servers that Communicate
@@ -171,6 +172,7 @@
 #### 2780. Minimum Index of a Valid Split
 #### 2807. Insert Greatest Common Divisors in Linked List
 #### 2825. Make String a Subsequence Using Cyclic Increments
+#### 2874. Maximum Value of an Ordered Triplet II
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
 #### 2924. Find Champion II
 #### 2938. Separate Black and White Balls
@@ -208,4 +210,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 198
+### Total finish 200
