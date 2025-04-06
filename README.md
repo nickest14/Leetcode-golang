@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 40
+### Easy finish 41
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -23,6 +23,7 @@
 #### 1752. Check if Array Is Sorted and Rotated
 #### 1790. Check if One String Swap Can Make Strings Equal
 #### 1800. Maximum Ascending Subarray Sum
+#### 1863. Sum of All Subset XOR Totals
 #### 1945. Sum of Digits of String After Convert
 #### 1957. Delete Characters to Make Fancy String
 #### 2022. Convert 1D Array Into 2D Array
@@ -44,11 +45,12 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medinum finish 147
+### Medinum finish 148
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
 #### 179. Largest Number
+#### 368. Largest Divisible Subset
 #### 386. Lexicographical Numbers
 #### 494. Target Sum
 #### 515. Find Largest Value in Each Tree Row
@@ -210,4 +212,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 200
+### Total finish 202
