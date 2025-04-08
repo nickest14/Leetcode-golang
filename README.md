@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 41
+### Easy finish 42
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -44,14 +44,16 @@
 #### 3151. Special Array I
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
+#### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 148
+### Medinum finish 149
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
 #### 179. Largest Number
 #### 368. Largest Divisible Subset
 #### 386. Lexicographical Numbers
+#### 416. Partition Equal Subset Sum
 #### 494. Target Sum
 #### 515. Find Largest Value in Each Tree Row
 #### 539. Minimum Time Difference
@@ -212,4 +214,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 202
+### Total finish 204
