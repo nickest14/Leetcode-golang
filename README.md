@@ -48,7 +48,7 @@
 #### 3375. Minimum Operations to Make Array Values Equal to K
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 149
+### Medinum finish 150
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -117,6 +117,7 @@
 #### 1861. Rotating the Box
 #### 1894. Find the Student that Will Replace the Chalk
 #### 1910. Remove All Occurrences of a Substring
+#### 1922. Count Good Numbers
 #### 1930. Unique Length-3 Palindromic Subsequences
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 #### 1975. Maximum Matrix Sum
@@ -216,4 +217,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 206
+### Total finish 207
