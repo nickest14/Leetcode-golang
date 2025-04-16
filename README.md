@@ -48,7 +48,7 @@
 #### 3375. Minimum Operations to Make Array Values Equal to K
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 150
+### Medinum finish 151
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 102. Binary Tree Level Order Traversal
@@ -158,6 +158,7 @@
 #### 2516. Take K of Each Character From Left and Right
 #### 2523. Closest Prime Numbers in Range
 #### 2530. Maximal Score After Applying K Operations
+#### 2537. Count the Number of Good Subarrays
 #### 2554. Maximum Number of Integers to Choose From a Range I
 #### 2559. Count Vowel Strings in Ranges
 #### 2560. House Robber IV
@@ -217,4 +218,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 207
+### Total finish 208
