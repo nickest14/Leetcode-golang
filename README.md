@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 44
+### Easy finish 46
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -27,6 +27,7 @@
 #### 1945. Sum of Digits of String After Convert
 #### 1957. Delete Characters to Make Fancy String
 #### 2022. Convert 1D Array Into 2D Array
+#### 2176. Count Equal and Divisible Pairs in an Array
 #### 2185. Counting Words With a Given Prefix
 #### 2220. Minimum Bit Flips to Convert Number
 #### 2379. Minimum Recolors to Get K Consecutive Black Blocks
@@ -48,9 +49,10 @@
 #### 3375. Minimum Operations to Make Array Values Equal to K
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 151
+### Medinum finish 152
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
+#### 38. Count and Say
 #### 102. Binary Tree Level Order Traversal
 #### 179. Largest Number
 #### 368. Largest Divisible Subset
@@ -218,4 +220,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 208
+### Total finish 210
