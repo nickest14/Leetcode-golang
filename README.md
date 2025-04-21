@@ -49,7 +49,7 @@
 #### 3375. Minimum Operations to Make Array Values Equal to K
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 152
+### Medinum finish 154
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -69,6 +69,7 @@
 #### 731. My Calendar II
 #### 763. Partition Labels
 #### 769. Max Chunks To Make Sorted
+#### 781. Rabbits in Forest
 #### 802. Find Eventual Safe States
 #### 873. Length of Longest Fibonacci Subsequence
 #### 889. Construct Binary Tree from Preorder and Postorder Traversal
@@ -135,6 +136,7 @@
 #### 2116. Check if a Parentheses String Can Be Valid
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2140. Solving Questions With Brainpower
+#### 2145. Count the Hidden Sequences
 #### 2161. Partition Array According to Given Pivot
 #### 2182. Construct String With Repeat Limit
 #### 2191. Sort the Jumbled Numbers
@@ -220,4 +222,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 210
+### Total finish 212
