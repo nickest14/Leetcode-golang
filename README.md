@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 46
+### Easy finish 47
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -12,6 +12,7 @@
 #### 796. Rotate String
 #### 884. Uncommon Words from Two Sentences
 #### 1331. Rank Transform of an Array
+#### 1399. Count Largest Group
 #### 1408. String Matching in an Array
 #### 1422. Maximum Score After Splitting a String
 #### 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
@@ -49,7 +50,7 @@
 #### 3375. Minimum Operations to Make Array Values Equal to K
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 154
+### Medinum finish 156
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -182,8 +183,10 @@
 #### 2762. Continuous Subarrays
 #### 2779. Maximum Beauty of an Array After Applying Operation
 #### 2780. Minimum Index of a Valid Split
+#### 2799. Count Complete Subarrays in an Array
 #### 2807. Insert Greatest Common Divisors in Linked List
 #### 2825. Make String a Subsequence Using Cyclic Increments
+#### 2845. Count of Interesting Subarrays
 #### 2874. Maximum Value of an Ordered Triplet II
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
 #### 2924. Find Champion II
@@ -222,4 +225,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 212
+### Total finish 215
