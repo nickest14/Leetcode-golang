@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 47
+### Easy finish 48
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -48,6 +48,7 @@
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
 #### 3375. Minimum Operations to Make Array Values Equal to K
+#### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
 ### Medinum finish 156
@@ -209,7 +210,7 @@
 #### 3356. Zero Array Transformation II
 #### 3394. Check if Grid can be Cut into Sections
 
-### Hard finish 13
+### Hard finish 14
 #### 407. Trapping Rain Water II
 #### 632. Smallest Range Covering Elements from K Lists
 #### 773. Sliding Puzzle
@@ -218,6 +219,7 @@
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
 #### 2290. Minimum Obstacle Removal to Reach Corner
+#### 2444. Count Subarrays With Fixed Bounds
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 #### 2503. Maximum Number of Points From Grid Queries
 #### 2551. Put Marbles in Bags
@@ -225,4 +227,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 215
+### Total finish 217
