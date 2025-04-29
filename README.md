@@ -51,7 +51,7 @@
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 156
+### Medinum finish 157
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -192,6 +192,7 @@
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
 #### 2924. Find Champion II
 #### 2938. Separate Black and White Balls
+#### 2962. Count Subarrays Where Max Element Appears at Least K Times
 #### 2981. Find Longest Special Substring That Occurs Thrice I
 #### 3011. Find if Array Can Be Sorted
 #### 3043. Find the Length of the Longest Common Prefix
@@ -210,7 +211,7 @@
 #### 3356. Zero Array Transformation II
 #### 3394. Check if Grid can be Cut into Sections
 
-### Hard finish 14
+### Hard finish 15
 #### 407. Trapping Rain Water II
 #### 632. Smallest Range Covering Elements from K Lists
 #### 773. Sliding Puzzle
@@ -219,6 +220,7 @@
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
 #### 2290. Minimum Obstacle Removal to Reach Corner
+#### 2302. Count Subarrays With Score Less Than K
 #### 2444. Count Subarrays With Fixed Bounds
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 #### 2503. Maximum Number of Points From Grid Queries
@@ -227,4 +229,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 217
+### Total finish 219
