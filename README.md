@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 49
+### Easy finish 51
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -11,6 +11,7 @@
 #### 590. N-ary Tree Postorder Traversal
 #### 796. Rotate String
 #### 884. Uncommon Words from Two Sentences
+#### 1128. Number of Equivalent Domino Pairs
 #### 1295. Find Numbers with Even Number of Digits
 #### 1331. Rank Transform of an Array
 #### 1399. Count Largest Group
@@ -26,6 +27,7 @@
 #### 1790. Check if One String Swap Can Make Strings Equal
 #### 1800. Maximum Ascending Subarray Sum
 #### 1863. Sum of All Subset XOR Totals
+#### 1920. Build Array from Permutation
 #### 1945. Sum of Digits of String After Convert
 #### 1957. Delete Characters to Make Fancy String
 #### 2022. Convert 1D Array Into 2D Array
@@ -52,7 +54,7 @@
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 159
+### Medinum finish 160
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -73,6 +75,7 @@
 #### 763. Partition Labels
 #### 769. Max Chunks To Make Sorted
 #### 781. Rabbits in Forest
+#### 790. Domino and Tromino Tiling
 #### 802. Find Eventual Safe States
 #### 838. Push Dominoes
 #### 873. Length of Longest Fibonacci Subsequence
@@ -232,4 +235,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 222
+### Total finish 225
