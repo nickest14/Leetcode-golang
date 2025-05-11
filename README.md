@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 51
+### Easy finish 52
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -20,6 +20,7 @@
 #### 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
 #### 1460. Make Two Arrays Equal by Reversing Subarrays
 #### 1475. Final Prices With a Special Discount in a Shop
+#### 1550. Three Consecutive Odds
 #### 1636. Sort Array by Increasing Frequency
 #### 1652. Defuse the Bomb
 #### 1684. Count the Number of Consistent Strings
@@ -54,7 +55,7 @@
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 160
+### Medinum finish 161
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -196,6 +197,7 @@
 #### 2845. Count of Interesting Subarrays
 #### 2874. Maximum Value of an Ordered Triplet II
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
+#### 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros
 #### 2924. Find Champion II
 #### 2938. Separate Black and White Balls
 #### 2962. Count Subarrays Where Max Element Appears at Least K Times
@@ -235,4 +237,4 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 
 
-### Total finish 225
+### Total finish 227
