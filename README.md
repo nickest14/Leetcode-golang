@@ -58,10 +58,11 @@
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 165
+### Medinum finish 166
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
+#### 73. Set Matrix Zeroes
 #### 75. Sort Colors
 #### 102. Binary Tree Level Order Traversal
 #### 179. Largest Number
@@ -226,7 +227,7 @@
 #### 3356. Zero Array Transformation II
 #### 3394. Check if Grid can be Cut into Sections
 
-### Hard finish 15
+### Hard finish 16
 #### 407. Trapping Rain Water II
 #### 632. Smallest Range Covering Elements from K Lists
 #### 773. Sliding Puzzle
@@ -242,6 +243,7 @@
 #### 2551. Put Marbles in Bags
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
+#### 3068. Find the Maximum Sum of Node Values
 
 
-### Total finish 234
+### Total finish 236
