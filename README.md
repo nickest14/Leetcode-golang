@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 55
+### Easy finish 56
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -47,6 +47,7 @@
 #### 2843. Count Symmetric Integers
 #### 2873. Maximum Value of an Ordered Triplet I
 #### 2900. Longest Unequal Adjacent Groups Subsequence I
+#### 2942. Find Words Containing Character
 #### 2965. Find Missing and Repeated Values
 #### 3024. Type of Triangle
 #### 3042. Count Prefix and Suffix Pairs I
@@ -58,7 +59,7 @@
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 166
+### Medinum finish 167
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -148,6 +149,7 @@
 #### 2070. Most Beautiful Item for Each Query
 #### 2109. Adding Spaces to a String
 #### 2116. Check if a Parentheses String Can Be Valid
+#### 2131. Longest Palindrome by Concatenating Two Letter Words
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2140. Solving Questions With Brainpower
 #### 2145. Count the Hidden Sequences
@@ -246,4 +248,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 
 
-### Total finish 236
+### Total finish 238
