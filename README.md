@@ -60,7 +60,7 @@
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 168
+### Medinum finish 169
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -164,6 +164,7 @@
 #### 2326. Spiral Matrix IV
 #### 2342. Max Sum of a Pair With Equal Sum of Digits
 #### 2349. Design a Number Container System
+#### 2359. Find Closest Node to Given Two Nodes
 #### 2364. Count Number of Bad Pairs
 #### 2375. Construct Smallest Number From DI String
 #### 2381. Shifting Letters II
@@ -231,7 +232,7 @@
 #### 3372. Maximize the Number of Target Nodes After Connecting Trees I
 #### 3394. Check if Grid can be Cut into Sections
 
-### Hard finish 16
+### Hard finish 17
 #### 407. Trapping Rain Water II
 #### 632. Smallest Range Covering Elements from K Lists
 #### 773. Sliding Puzzle
@@ -248,6 +249,6 @@
 #### 2872. Maximum Number of K-Divisible Components
 #### 2940. Find Building Where Alice and Bob Can Meet
 #### 3068. Find the Maximum Sum of Node Values
+#### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-
-### Total finish 240
+### Total finish 242
