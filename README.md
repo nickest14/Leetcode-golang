@@ -60,7 +60,7 @@
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 169
+### Medinum finish 171
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -88,6 +88,7 @@
 #### 838. Push Dominoes
 #### 873. Length of Longest Fibonacci Subsequence
 #### 889. Construct Binary Tree from Preorder and Postorder Traversal
+#### 909. Snakes and Ladders
 #### 912. Sort an Array
 #### 916. Word Subsets
 #### 921. Minimum Add to Make Parentheses Valid
@@ -209,6 +210,7 @@
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
 #### 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros
 #### 2924. Find Champion II
+#### 2929. Distribute Candies Among Children II
 #### 2938. Separate Black and White Balls
 #### 2962. Count Subarrays Where Max Element Appears at Least K Times
 #### 2981. Find Longest Special Substring That Occurs Thrice I
@@ -251,4 +253,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 242
+### Total finish 244
