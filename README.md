@@ -60,7 +60,7 @@
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 171
+### Medinum finish 172
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -233,13 +233,16 @@
 #### 3356. Zero Array Transformation II
 #### 3372. Maximize the Number of Target Nodes After Connecting Trees I
 #### 3394. Check if Grid can be Cut into Sections
+#### 3403. Find the Lexicographically Largest String From the Box I
 
-### Hard finish 17
+### Hard finish 19
+#### 135. Candy
 #### 407. Trapping Rain Water II
 #### 632. Smallest Range Covering Elements from K Lists
 #### 773. Sliding Puzzle
 #### 862. Shortest Subarray with Sum at Least K
 #### 1028. Recover a Tree From Preorder Traversal
+#### 1298. Maximum Candies You Can Get from Boxes
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
 #### 2290. Minimum Obstacle Removal to Reach Corner
@@ -253,4 +256,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 244
+### Total finish 247
