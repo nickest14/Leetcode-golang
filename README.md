@@ -60,7 +60,7 @@
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medinum finish 172
+### Medinum finish 175
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -96,6 +96,7 @@
 #### 962. Maximum Width Ramp
 #### 1007. Minimum Domino Rotations For Equal Row
 #### 1014. Best Sightseeing Pair
+#### 1061. Lexicographically Smallest Equivalent String
 #### 1072. Flip Columns For Maximum Number of Equal Rows
 #### 1079. Letter Tile Possibilities
 #### 1110. Delete Nodes And Return Forest
@@ -173,6 +174,7 @@
 #### 2415. Reverse Odd Levels of Binary Tree
 #### 2425. Bitwise XOR of All Pairings
 #### 2429. Minimize XOR
+#### 2434. Using a Robot to Print the Lexicographically Smallest String
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
 #### 2466. Count Ways To Build Good Strings
 #### 2471. Minimum Number of Operations to Sort a Binary Tree by Level
@@ -222,6 +224,7 @@
 #### 3160. Find the Number of Distinct Colors Among the Balls
 #### 3163. String Compression III
 #### 3169. Count Days Without Meetings
+#### 3170. Lexicographically Minimum String After Removing Stars
 #### 3208. Alternating Groups II
 #### 3217. Delete Nodes From Linked List Present in Array
 #### 3223. Minimum Length of String After Operations
@@ -256,4 +259,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 247
+### Total finish 250
