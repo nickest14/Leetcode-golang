@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 57
+### Easy finish 59
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -59,6 +59,8 @@
 #### 3375. Minimum Operations to Make Array Values Equal to K
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
+#### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
+#### 3442. Maximum Difference Between Even and Odd Frequency I
 
 ### Medinum finish 175
 #### 2. Add Two Numbers
@@ -238,9 +240,10 @@
 #### 3394. Check if Grid can be Cut into Sections
 #### 3403. Find the Lexicographically Largest String From the Box I
 
-### Hard finish 19
+### Hard finish 20
 #### 135. Candy
 #### 407. Trapping Rain Water II
+#### 440. K-th Smallest in Lexicographical Order
 #### 632. Smallest Range Covering Elements from K Lists
 #### 773. Sliding Puzzle
 #### 862. Shortest Subarray with Sum at Least K
@@ -259,4 +262,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 250
+### Total finish 253
