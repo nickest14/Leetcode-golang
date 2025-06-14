@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 59
+### Easy finish 60
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -42,6 +42,7 @@
 #### 2490. Circular Sentence
 #### 2529. Maximum Count of Positive Integer and Negative Integer
 #### 2558. Take Gifts From the Richest Pile
+#### 2566. Maximum Difference by Remapping a Digit
 #### 2570. Merge Two 2D Arrays by Summing Values
 #### 2696. Minimum String Length After Removing Substrings
 #### 2843. Count Symmetric Integers
@@ -62,7 +63,7 @@
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medinum finish 175
+### Medinum finish 176
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -194,6 +195,7 @@
 #### 2583. Kth Largest Sum in a Binary Tree
 #### 2593. Find Score of an Array After Marking All Elements
 #### 2601. Prime Subtraction Operation
+#### 2616. Minimize the Maximum Difference of Pairs
 #### 2641. Cousins in Binary Tree II
 #### 2657. Find the Prefix Common Array of Two Arrays
 #### 2661. First Completely Painted Row or Column
@@ -262,4 +264,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 253
+### Total finish 255
