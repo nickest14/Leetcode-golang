@@ -64,7 +64,7 @@
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medinum finish 177
+### Medinum finish 179
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -168,6 +168,7 @@
 #### 2257. Count Unguarded Cells in the Grid
 #### 2270. Number of Ways to Split Array
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
+#### 2294. Partition Array Such That Maximum Difference Is K
 #### 2326. Spiral Matrix IV
 #### 2342. Max Sum of a Pair With Equal Sum of Digits
 #### 2349. Design a Number Container System
@@ -221,6 +222,7 @@
 #### 2929. Distribute Candies Among Children II
 #### 2938. Separate Black and White Balls
 #### 2962. Count Subarrays Where Max Element Appears at Least K Times
+#### 2966. Divide Array Into Arrays With Max Difference
 #### 2981. Find Longest Special Substring That Occurs Thrice I
 #### 3011. Find if Array Can Be Sorted
 #### 3043. Find the Length of the Longest Common Prefix
@@ -266,4 +268,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 257
+### Total finish 259
