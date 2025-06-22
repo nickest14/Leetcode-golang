@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 61
+### Easy finish 60
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -34,6 +34,7 @@
 #### 2016. Maximum Difference Between Increasing Elements
 #### 2022. Convert 1D Array Into 2D Array
 #### 2094. Finding 3-Digit Even Numbers
+#### 2138. Divide a String Into Groups of Size k
 #### 2176. Count Equal and Divisible Pairs in an Array
 #### 2185. Counting Words With a Given Prefix
 #### 2220. Minimum Bit Flips to Convert Number
@@ -64,7 +65,7 @@
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medinum finish 179
+### Medinum finish 182
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -227,6 +228,7 @@
 #### 3011. Find if Array Can Be Sorted
 #### 3043. Find the Length of the Longest Common Prefix
 #### 3066. Minimum Operations to Exceed Threshold Value II
+#### 3085. Minimum Deletions to Make String K-Special
 #### 3097. Shortest Subarray With OR at Least K II
 #### 3152. Special Array II
 #### 3160. Find the Number of Distinct Colors Among the Balls
@@ -245,6 +247,7 @@
 #### 3372. Maximize the Number of Target Nodes After Connecting Trees I
 #### 3394. Check if Grid can be Cut into Sections
 #### 3403. Find the Lexicographically Largest String From the Box I
+#### 3443. Maximum Manhattan Distance After K Changes
 
 ### Hard finish 20
 #### 135. Candy
@@ -268,4 +271,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 259
+### Total finish 262
