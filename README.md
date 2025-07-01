@@ -2,13 +2,14 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 62
+### Easy finish 64
 
 #### 1. Two Sum
 #### 100. Same Tree
 #### 101. Symmetric Tree
 #### 476. Number Complement
 #### 590. N-ary Tree Postorder Traversal
+#### 594. Longest Harmonious Subsequence
 #### 796. Rotate String
 #### 884. Uncommon Words from Two Sentences
 #### 1128. Number of Equivalent Domino Pairs
@@ -61,13 +62,14 @@
 #### 3151. Special Array I
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
+#### 3330. Find the Original Typed String I
 #### 3375. Minimum Operations to Make Array Values Equal to K
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medinum finish 183
+### Medinum finish 184
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -125,6 +127,7 @@
 #### 1415. The k-th Lexicographical String of All Happy Strings of Length n
 #### 1432. Max Difference You Can Get From Changing an Integer
 #### 1497. Check If Array Pairs Are Divisible by k
+#### 1498. Number of Subsequences That Satisfy the Given Sum Condition
 #### 1508. Range Sum of Sorted Subarray Sums
 #### 1524. Number of Sub-arrays With Odd Sum
 #### 1530. Number of Good Leaf Nodes Pairs
@@ -274,4 +277,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 265
+### Total finish 268
