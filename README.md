@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 64
+### Easy finish 66
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -15,6 +15,7 @@
 #### 1128. Number of Equivalent Domino Pairs
 #### 1295. Find Numbers with Even Number of Digits
 #### 1331. Rank Transform of an Array
+#### 1394. Find Lucky Integer in an Array
 #### 1399. Count Largest Group
 #### 1408. String Matching in an Array
 #### 1422. Maximum Score After Splitting a String
@@ -62,6 +63,7 @@
 #### 3151. Special Array I
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
+#### 3304. Find the K-th Character in String Game I
 #### 3330. Find the Original Typed String I
 #### 3375. Minimum Operations to Make Array Values Equal to K
 #### 3392. Count Subarrays of Length Three With a Condition
@@ -69,7 +71,7 @@
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medinum finish 184
+### Medinum finish 185
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -147,6 +149,7 @@
 #### 1813. Sentence Similarity III
 #### 1829. Maximum XOR for Each Query
 #### 1861. Rotating the Box
+#### 1865. Finding Pairs With a Certain Sum
 #### 1894. Find the Student that Will Replace the Chalk
 #### 1910. Remove All Occurrences of a Substring
 #### 1922. Count Good Numbers
@@ -277,4 +280,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 268
+### Total finish 271
