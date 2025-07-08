@@ -71,7 +71,7 @@
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medinum finish 185
+### Medinum finish 186
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -119,6 +119,7 @@
 #### 1310. XOR Queries of a Subarray
 #### 1346. Check If N and Its Double Exist
 #### 1352. Product of the Last K Numbers
+#### 1353. Maximum Number of Events That Can Be Attended
 #### 1358. Number of Substrings Containing All Three Characters
 #### 1367. Linked List in Binary Tree
 #### 1371. Find the Longest Substring Containing Vowels in Even Counts
@@ -258,7 +259,7 @@
 #### 3403. Find the Lexicographically Largest String From the Box I
 #### 3443. Maximum Manhattan Distance After K Changes
 
-### Hard finish 20
+### Hard finish 21
 #### 135. Candy
 #### 407. Trapping Rain Water II
 #### 440. K-th Smallest in Lexicographical Order
@@ -269,6 +270,7 @@
 #### 1298. Maximum Candies You Can Get from Boxes
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
+#### 1751. Maximum Number of Events That Can Be Attended II
 #### 2290. Minimum Obstacle Removal to Reach Corner
 #### 2302. Count Subarrays With Score Less Than K
 #### 2444. Count Subarrays With Fixed Bounds
@@ -280,4 +282,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 271
+### Total finish 273
