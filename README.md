@@ -71,7 +71,7 @@
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medinum finish 186
+### Medinum finish 188
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -257,6 +257,8 @@
 #### 3372. Maximize the Number of Target Nodes After Connecting Trees I
 #### 3394. Check if Grid can be Cut into Sections
 #### 3403. Find the Lexicographically Largest String From the Box I
+#### 3439. Reschedule Meetings for Maximum Free Time I
+#### 3440. Reschedule Meetings for Maximum Free Time II
 #### 3443. Maximum Manhattan Distance After K Changes
 
 ### Hard finish 21
@@ -282,4 +284,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 273
+### Total finish 275
