@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 66
+### Easy finish 68
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -13,6 +13,7 @@
 #### 796. Rotate String
 #### 884. Uncommon Words from Two Sentences
 #### 1128. Number of Equivalent Domino Pairs
+#### 1290. Convert Binary Number in a Linked List to Integer
 #### 1295. Find Numbers with Even Number of Digits
 #### 1331. Rank Transform of an Array
 #### 1394. Find Lucky Integer in an Array
@@ -60,6 +61,7 @@
 #### 3024. Type of Triangle
 #### 3042. Count Prefix and Suffix Pairs I
 #### 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
+#### 3136. Valid Word
 #### 3151. Special Array I
 #### 3174. Clear Digits
 #### 3264. Final Array State After K Multiplication Operations I
@@ -71,7 +73,7 @@
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medinum finish 188
+### Medinum finish 189
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -188,6 +190,7 @@
 #### 2375. Construct Smallest Number From DI String
 #### 2381. Shifting Letters II
 #### 2406. Divide Intervals Into Minimum Number of Groups
+#### 2410. Maximum Matching of Players With Trainers
 #### 2415. Reverse Odd Levels of Binary Tree
 #### 2425. Bitwise XOR of All Pairings
 #### 2429. Minimize XOR
@@ -284,4 +287,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 275
+### Total finish 278
