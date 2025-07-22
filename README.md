@@ -73,7 +73,7 @@
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medinum finish 191
+### Medinum finish 192
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -141,6 +141,7 @@
 #### 1590. Make Sum Divisible by P
 #### 1593. Split a String Into the Max Number of Unique Substrings
 #### 1653. Minimum Deletions to Make String Balanced
+#### 1695. Maximum Erasure Value
 #### 1718. Construct the Lexicographically Largest Valid Sequence
 #### 1726. Tuple with Same Product
 #### 1749. Maximum Absolute Sum of Any Subarray
@@ -289,4 +290,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 280
+### Total finish 281
