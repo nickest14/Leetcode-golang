@@ -75,7 +75,7 @@
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medinum finish 193
+### Medinum finish 196
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -103,6 +103,7 @@
 #### 838. Push Dominoes
 #### 873. Length of Longest Fibonacci Subsequence
 #### 889. Construct Binary Tree from Preorder and Postorder Traversal
+#### 898. Bitwise ORs of Subarrays
 #### 909. Snakes and Ladders
 #### 912. Sort an Array
 #### 916. Word Subsets
@@ -195,7 +196,9 @@
 #### 2381. Shifting Letters II
 #### 2406. Divide Intervals Into Minimum Number of Groups
 #### 2410. Maximum Matching of Players With Trainers
+#### 2411. Smallest Subarrays With Maximum Bitwise OR
 #### 2415. Reverse Odd Levels of Binary Tree
+#### 2419. Longest Subarray With Maximum Bitwise AND
 #### 2425. Bitwise XOR of All Pairings
 #### 2429. Minimize XOR
 #### 2434. Using a Robot to Print the Lexicographically Smallest String
@@ -293,4 +296,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 284
+### Total finish 287
