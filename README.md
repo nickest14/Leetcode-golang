@@ -2,11 +2,12 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 70
+### Easy finish 71
 
 #### 1. Two Sum
 #### 100. Same Tree
 #### 101. Symmetric Tree
+#### 118. Pascal's Triangle
 #### 476. Number Complement
 #### 590. N-ary Tree Postorder Traversal
 #### 594. Longest Harmonious Subsequence
@@ -75,7 +76,7 @@
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medinum finish 196
+### Medinum finish 197
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -104,6 +105,7 @@
 #### 873. Length of Longest Fibonacci Subsequence
 #### 889. Construct Binary Tree from Preorder and Postorder Traversal
 #### 898. Bitwise ORs of Subarrays
+#### 904. Fruit Into Baskets
 #### 909. Snakes and Ladders
 #### 912. Sort an Array
 #### 916. Word Subsets
@@ -273,7 +275,7 @@
 #### 3440. Reschedule Meetings for Maximum Free Time II
 #### 3443. Maximum Manhattan Distance After K Changes
 
-### Hard finish 21
+### Hard finish 22
 #### 135. Candy
 #### 407. Trapping Rain Water II
 #### 440. K-th Smallest in Lexicographical Order
@@ -285,6 +287,7 @@
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
 #### 1751. Maximum Number of Events That Can Be Attended II
+#### 2106. Maximum Fruits Harvested After at Most K Steps
 #### 2290. Minimum Obstacle Removal to Reach Corner
 #### 2302. Count Subarrays With Score Less Than K
 #### 2444. Count Subarrays With Fixed Bounds
@@ -296,4 +299,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 287
+### Total finish 290
