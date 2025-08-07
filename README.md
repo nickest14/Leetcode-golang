@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 71
+### Easy finish 72
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -74,6 +74,7 @@
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
 #### 3442. Maximum Difference Between Even and Odd Frequency I
+#### 3477. Fruits Into Baskets II
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
 ### Medinum finish 197
@@ -299,4 +300,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 290
+### Total finish 291
