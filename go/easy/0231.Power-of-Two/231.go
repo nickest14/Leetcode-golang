@@ -1,0 +1,8 @@
+// https://leetcode.com/problems/power-of-two/
+// Level: Easy
+
+package leetcode
+
+func isPowerOfTwo(n int) bool {
+	return n > 0 && n&(n-1) == 0
+}

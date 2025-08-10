@@ -2,12 +2,13 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 72
+### Easy finish 73
 
 #### 1. Two Sum
 #### 100. Same Tree
 #### 101. Symmetric Tree
 #### 118. Pascal's Triangle
+#### 231. Power of Two
 #### 476. Number Complement
 #### 590. N-ary Tree Postorder Traversal
 #### 594. Longest Harmonious Subsequence
@@ -77,7 +78,7 @@
 #### 3477. Fruits Into Baskets II
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medinum finish 197
+### Medinum finish 199
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -102,7 +103,9 @@
 #### 781. Rabbits in Forest
 #### 790. Domino and Tromino Tiling
 #### 802. Find Eventual Safe States
+#### 808. Soup Servings
 #### 838. Push Dominoes
+#### 869. Reordered Power of 2
 #### 873. Length of Longest Fibonacci Subsequence
 #### 889. Construct Binary Tree from Preorder and Postorder Traversal
 #### 898. Bitwise ORs of Subarrays
@@ -300,4 +303,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 291
+### Total finish 294
