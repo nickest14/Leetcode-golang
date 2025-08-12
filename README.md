@@ -78,7 +78,7 @@
 #### 3477. Fruits Into Baskets II
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medinum finish 199
+### Medinum finish 201
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -208,6 +208,7 @@
 #### 2425. Bitwise XOR of All Pairings
 #### 2429. Minimize XOR
 #### 2434. Using a Robot to Print the Lexicographically Smallest String
+#### 2438. Range Product Queries of Powers
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
 #### 2466. Count Ways To Build Good Strings
 #### 2471. Minimum Number of Operations to Sort a Binary Tree by Level
@@ -237,6 +238,7 @@
 #### 2762. Continuous Subarrays
 #### 2779. Maximum Beauty of an Array After Applying Operation
 #### 2780. Minimum Index of a Valid Split
+#### 2787. Ways to Express an Integer as Sum of Powers
 #### 2799. Count Complete Subarrays in an Array
 #### 2807. Insert Greatest Common Divisors in Linked List
 #### 2825. Make String a Subsequence Using Cyclic Increments
@@ -303,4 +305,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 294
+### Total finish 296
