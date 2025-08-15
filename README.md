@@ -2,13 +2,15 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 73
+### Easy finish 76
 
 #### 1. Two Sum
 #### 100. Same Tree
 #### 101. Symmetric Tree
 #### 118. Pascal's Triangle
 #### 231. Power of Two
+#### 326. Power of Three
+#### 342. Power of Four
 #### 476. Number Complement
 #### 590. N-ary Tree Postorder Traversal
 #### 594. Longest Harmonious Subsequence
@@ -46,6 +48,7 @@
 #### 2200. Find All K-Distant Indices in an Array
 #### 2210. Count Hills and Valleys in an Array
 #### 2220. Minimum Bit Flips to Convert Number
+#### 2264. Largest 3-Same-Digit Number in String
 #### 2379. Minimum Recolors to Get K Consecutive Black Blocks
 #### 2418. Sort the People
 #### 2460. Apply Operations to an Array
@@ -305,4 +308,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 296
+### Total finish 299
