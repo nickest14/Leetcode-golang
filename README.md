@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 76
+### Easy finish 77
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -19,6 +19,7 @@
 #### 1128. Number of Equivalent Domino Pairs
 #### 1290. Convert Binary Number in a Linked List to Integer
 #### 1295. Find Numbers with Even Number of Digits
+#### 1323. Maximum 69 Number
 #### 1331. Rank Transform of an Array
 #### 1394. Find Lucky Integer in an Array
 #### 1399. Count Largest Group
@@ -81,7 +82,7 @@
 #### 3477. Fruits Into Baskets II
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medinum finish 201
+### Medinum finish 202
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -107,6 +108,7 @@
 #### 790. Domino and Tromino Tiling
 #### 802. Find Eventual Safe States
 #### 808. Soup Servings
+#### 837. New 21 Game
 #### 838. Push Dominoes
 #### 869. Reordered Power of 2
 #### 873. Length of Longest Fibonacci Subsequence
@@ -308,4 +310,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 299
+### Total finish 301
