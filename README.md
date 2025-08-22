@@ -82,7 +82,7 @@
 #### 3477. Fruits Into Baskets II
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medinum finish 202
+### Medinum finish 204
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -200,6 +200,7 @@
 #### 2311. Longest Binary Subsequence Less Than or Equal to K
 #### 2326. Spiral Matrix IV
 #### 2342. Max Sum of a Pair With Equal Sum of Digits
+#### 2348. Number of Zero-Filled Subarrays
 #### 2349. Design a Number Container System
 #### 2359. Find Closest Node to Given Two Nodes
 #### 2364. Count Number of Bad Pairs
@@ -268,6 +269,7 @@
 #### 3163. String Compression III
 #### 3169. Count Days Without Meetings
 #### 3170. Lexicographically Minimum String After Removing Stars
+#### 3195. Find the Minimum Area to Cover All Ones I
 #### 3201. Find the Maximum Length of Valid Subsequence I
 #### 3202. Find the Maximum Length of Valid Subsequence II
 #### 3208. Alternating Groups II
@@ -310,4 +312,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 301
+### Total finish 303
