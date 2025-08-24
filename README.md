@@ -82,7 +82,7 @@
 #### 3477. Fruits Into Baskets II
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medinum finish 204
+### Medinum finish 205
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -145,6 +145,7 @@
 #### 1405. Longest Happy String
 #### 1415. The k-th Lexicographical String of All Happy Strings of Length n
 #### 1432. Max Difference You Can Get From Changing an Integer
+#### 1493. Longest Subarray of 1's After Deleting One Element
 #### 1497. Check If Array Pairs Are Divisible by k
 #### 1498. Number of Subsequences That Satisfy the Given Sum Condition
 #### 1508. Range Sum of Sorted Subarray Sums
@@ -312,4 +313,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 303
+### Total finish 304
