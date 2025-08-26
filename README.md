@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 77
+### Easy finish 78
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -65,6 +65,7 @@
 #### 2900. Longest Unequal Adjacent Groups Subsequence I
 #### 2942. Find Words Containing Character
 #### 2965. Find Missing and Repeated Values
+#### 3000. Maximum Area of Longest Diagonal Rectangle
 #### 3024. Type of Triangle
 #### 3042. Count Prefix and Suffix Pairs I
 #### 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
@@ -82,7 +83,7 @@
 #### 3477. Fruits Into Baskets II
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medinum finish 205
+### Medinum finish 206
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -94,6 +95,7 @@
 #### 386. Lexicographical Numbers
 #### 416. Partition Equal Subset Sum
 #### 494. Target Sum
+#### 498. Diagonal Traverse
 #### 515. Find Largest Value in Each Tree Row
 #### 539. Minimum Time Difference
 #### 567. Permutation in String
@@ -313,4 +315,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 304
+### Total finish 306
