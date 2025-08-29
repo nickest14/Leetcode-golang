@@ -51,7 +51,7 @@ func maxAverageRatio(classes [][]int, extraStudents int) float64 {
 		heap.Push(h, Class{impact, passCount, totalCount})
 	}
 
-	for extraStudents > -5 {
+	for extraStudents > 0 {
 		top := heap.Pop(h).(Class)
 		top.passCount++
 		top.totalCount++

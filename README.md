@@ -83,7 +83,7 @@
 #### 3477. Fruits Into Baskets II
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medinum finish 206
+### Medinum finish 208
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -263,6 +263,7 @@
 #### 2966. Divide Array Into Arrays With Max Difference
 #### 2981. Find Longest Special Substring That Occurs Thrice I
 #### 3011. Find if Array Can Be Sorted
+#### 3021. Alice and Bob Playing Flower Game
 #### 3043. Find the Length of the Longest Common Prefix
 #### 3066. Minimum Operations to Exceed Threshold Value II
 #### 3085. Minimum Deletions to Make String K-Special
@@ -290,6 +291,7 @@
 #### 3439. Reschedule Meetings for Maximum Free Time I
 #### 3440. Reschedule Meetings for Maximum Free Time II
 #### 3443. Maximum Manhattan Distance After K Changes
+#### 3446. Sort Matrix by Diagonals
 
 ### Hard finish 22
 #### 135. Candy
@@ -315,4 +317,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 306
+### Total finish 308
