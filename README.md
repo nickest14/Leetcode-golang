@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 78
+### Easy finish 79
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -82,8 +82,9 @@
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 #### 3477. Fruits Into Baskets II
 #### 3487. Maximum Unique Subarray Sum After Deletion
+#### 3516. Find Closest Person
 
-### Medinum finish 209
+### Medinum finish 210
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -244,6 +245,7 @@
 #### 2685. Count the Number of Complete Components
 #### 2698. Find the Punishment Number of an Integer
 #### 2707. Extra Characters in a String
+#### 2749. Minimum Operations to Make the Integer Zero
 #### 2762. Continuous Subarrays
 #### 2779. Maximum Beauty of an Array After Applying Operation
 #### 2780. Minimum Index of a Valid Split
@@ -319,4 +321,4 @@
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
-### Total finish 310
+### Total finish 312
