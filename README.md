@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 79
+### Easy finish 80
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -19,6 +19,7 @@
 #### 1128. Number of Equivalent Domino Pairs
 #### 1290. Convert Binary Number in a Linked List to Integer
 #### 1295. Find Numbers with Even Number of Digits
+#### 1304. Find N Unique Integers Sum up to Zero
 #### 1323. Maximum 69 Number
 #### 1331. Rank Transform of an Array
 #### 1394. Find Lucky Integer in an Array
@@ -296,7 +297,7 @@
 #### 3443. Maximum Manhattan Distance After K Changes
 #### 3446. Sort Matrix by Diagonals
 
-### Hard finish 23
+### Hard finish 24
 #### 135. Candy
 #### 407. Trapping Rain Water II
 #### 440. K-th Smallest in Lexicographical Order
@@ -320,5 +321,6 @@
 #### 3027. Find the Number of Ways to Place People II
 #### 3068. Find the Maximum Sum of Node Values
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
+#### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 312
+### Total finish 314
