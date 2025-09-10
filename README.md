@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 80
+### Easy finish 81
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -20,6 +20,7 @@
 #### 1290. Convert Binary Number in a Linked List to Integer
 #### 1295. Find Numbers with Even Number of Digits
 #### 1304. Find N Unique Integers Sum up to Zero
+#### 1317. Convert Integer to the Sum of Two No-Zero Integers
 #### 1323. Maximum 69 Number
 #### 1331. Rank Transform of an Array
 #### 1394. Find Lucky Integer in an Array
@@ -85,7 +86,7 @@
 #### 3487. Maximum Unique Subarray Sum After Deletion
 #### 3516. Find Closest Person
 
-### Medinum finish 210
+### Medinum finish 211
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -164,6 +165,7 @@
 #### 1717. Maximum Score From Removing Substrings
 #### 1718. Construct the Lexicographically Largest Valid Sequence
 #### 1726. Tuple with Same Product
+#### 1733. Minimum Number of People to Teach
 #### 1749. Maximum Absolute Sum of Any Subarray
 #### 1760. Minimum Limit of Balls in a Bag
 #### 1765. Map of Highest Peak
@@ -323,4 +325,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 314
+### Total finish 316
