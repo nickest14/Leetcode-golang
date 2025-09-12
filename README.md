@@ -86,7 +86,7 @@
 #### 3487. Maximum Unique Subarray Sum After Deletion
 #### 3516. Find Closest Person
 
-### Medinum finish 211
+### Medinum finish 213
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -252,6 +252,7 @@
 #### 2762. Continuous Subarrays
 #### 2779. Maximum Beauty of an Array After Applying Operation
 #### 2780. Minimum Index of a Valid Split
+#### 2785. Sort Vowels in a String
 #### 2787. Ways to Express an Integer as Sum of Powers
 #### 2799. Count Complete Subarrays in an Array
 #### 2807. Insert Greatest Common Divisors in Linked List
@@ -285,6 +286,7 @@
 #### 3208. Alternating Groups II
 #### 3217. Delete Nodes From Linked List Present in Array
 #### 3223. Minimum Length of String After Operations
+#### 3227. Vowels Game in a String
 #### 3243. Shortest Distance After Road Addition Queries I
 #### 3254. Find the Power of K-Size Subarrays I
 #### 3306. Count of Substrings Containing Every Vowel and K Consonants II
@@ -325,4 +327,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 316
+### Total finish 318
