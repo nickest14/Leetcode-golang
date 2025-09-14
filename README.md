@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 81
+### Easy finish 82
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -85,8 +85,9 @@
 #### 3477. Fruits Into Baskets II
 #### 3487. Maximum Unique Subarray Sum After Deletion
 #### 3516. Find Closest Person
+#### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 213
+### Medinum finish 214
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -126,6 +127,7 @@
 #### 921. Minimum Add to Make Parentheses Valid
 #### 951. Flip Equivalent Binary Trees
 #### 962. Maximum Width Ramp
+#### 966. Vowel Spellchecker
 #### 1007. Minimum Domino Rotations For Equal Row
 #### 1014. Best Sightseeing Pair
 #### 1061. Lexicographically Smallest Equivalent String
@@ -327,4 +329,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 318
+### Total finish 320
