@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 82
+### Easy finish 83
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -39,6 +39,7 @@
 #### 1800. Maximum Ascending Subarray Sum
 #### 1863. Sum of All Subset XOR Totals
 #### 1920. Build Array from Permutation
+#### 1935. Maximum Number of Words You Can Type
 #### 1945. Sum of Digits of String After Convert
 #### 1957. Delete Characters to Make Fancy String
 #### 2016. Maximum Difference Between Increasing Elements
@@ -303,7 +304,7 @@
 #### 3443. Maximum Manhattan Distance After K Changes
 #### 3446. Sort Matrix by Diagonals
 
-### Hard finish 24
+### Hard finish 25
 #### 135. Candy
 #### 407. Trapping Rain Water II
 #### 440. K-th Smallest in Lexicographical Order
@@ -316,6 +317,7 @@
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
 #### 1751. Maximum Number of Events That Can Be Attended II
 #### 2106. Maximum Fruits Harvested After at Most K Steps
+#### 2197. Replace Non-Coprime Numbers in Array
 #### 2290. Minimum Obstacle Removal to Reach Corner
 #### 2302. Count Subarrays With Score Less Than K
 #### 2444. Count Subarrays With Fixed Bounds
@@ -329,4 +331,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 320
+### Total finish 322
