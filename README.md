@@ -88,7 +88,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 214
+### Medinum finish 216
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -212,6 +212,7 @@
 #### 2342. Max Sum of a Pair With Equal Sum of Digits
 #### 2348. Number of Zero-Filled Subarrays
 #### 2349. Design a Number Container System
+#### 2353. Design a Food Rating System
 #### 2359. Find Closest Node to Given Two Nodes
 #### 2364. Count Number of Bad Pairs
 #### 2375. Construct Smallest Number From DI String
@@ -299,6 +300,7 @@
 #### 3372. Maximize the Number of Target Nodes After Connecting Trees I
 #### 3394. Check if Grid can be Cut into Sections
 #### 3403. Find the Lexicographically Largest String From the Box I
+#### 3408. Design Task Manager
 #### 3439. Reschedule Meetings for Maximum Free Time I
 #### 3440. Reschedule Meetings for Maximum Free Time II
 #### 3443. Maximum Manhattan Distance After K Changes
@@ -331,4 +333,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 322
+### Total finish 324
