@@ -88,7 +88,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 216
+### Medinum finish 218
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -305,6 +305,8 @@
 #### 3440. Reschedule Meetings for Maximum Free Time II
 #### 3443. Maximum Manhattan Distance After K Changes
 #### 3446. Sort Matrix by Diagonals
+#### 3484. Design Spreadsheet
+#### 3508. Implement Router
 
 ### Hard finish 25
 #### 135. Candy
@@ -333,4 +335,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 324
+### Total finish 326
