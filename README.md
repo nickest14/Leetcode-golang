@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 83
+### Easy finish 84
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -69,6 +69,7 @@
 #### 2942. Find Words Containing Character
 #### 2965. Find Missing and Repeated Values
 #### 3000. Maximum Area of Longest Diagonal Rectangle
+#### 3005. Count Elements With Maximum Frequency
 #### 3024. Type of Triangle
 #### 3042. Count Prefix and Suffix Pairs I
 #### 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
@@ -335,4 +336,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 326
+### Total finish 327
