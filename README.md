@@ -89,13 +89,15 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 218
+### Medinum finish 220
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
 #### 73. Set Matrix Zeroes
 #### 75. Sort Colors
 #### 102. Binary Tree Level Order Traversal
+#### 165. Compare Version Numbers
+#### 166. Fraction to Recurring Decimal
 #### 179. Largest Number
 #### 368. Largest Divisible Subset
 #### 386. Lexicographical Numbers
@@ -336,4 +338,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 327
+### Total finish 329
