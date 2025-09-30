@@ -91,7 +91,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 222
+### Medinum finish 224
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 38. Count and Say
@@ -138,6 +138,7 @@
 #### 966. Vowel Spellchecker
 #### 1007. Minimum Domino Rotations For Equal Row
 #### 1014. Best Sightseeing Pair
+#### 1039. Minimum Score Triangulation of Polygon
 #### 1061. Lexicographically Smallest Equivalent String
 #### 1072. Flip Columns For Maximum Number of Equal Rows
 #### 1079. Letter Tile Possibilities
@@ -209,6 +210,7 @@
 #### 2161. Partition Array According to Given Pivot
 #### 2182. Construct String With Repeat Limit
 #### 2191. Sort the Jumbled Numbers
+#### 2221. Find Triangular Sum of an Array
 #### 2226. Maximum Candies Allocated to K Children
 #### 2257. Count Unguarded Cells in the Grid
 #### 2270. Number of Ways to Split Array
@@ -342,4 +344,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 333
+### Total finish 335
