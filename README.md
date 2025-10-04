@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 86
+### Easy finish 87
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -32,6 +32,7 @@
 #### 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
 #### 1460. Make Two Arrays Equal by Reversing Subarrays
 #### 1475. Final Prices With a Special Discount in a Shop
+#### 1518. Water Bottles
 #### 1550. Three Consecutive Odds
 #### 1636. Sort Array by Increasing Frequency
 #### 1652. Defuse the Bomb
@@ -91,9 +92,10 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 224
+### Medinum finish 226
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
+#### 11. Container With Most Water
 #### 38. Count and Say
 #### 73. Set Matrix Zeroes
 #### 75. Sort Colors
@@ -288,6 +290,7 @@
 #### 3066. Minimum Operations to Exceed Threshold Value II
 #### 3085. Minimum Deletions to Make String K-Special
 #### 3097. Shortest Subarray With OR at Least K II
+#### 3100. Water Bottles II
 #### 3152. Special Array II
 #### 3160. Find the Number of Distinct Colors Among the Balls
 #### 3163. String Compression III
@@ -344,4 +347,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 335
+### Total finish 338
