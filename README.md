@@ -92,7 +92,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 226
+### Medinum finish 227
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -218,6 +218,7 @@
 #### 2270. Number of Ways to Split Array
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
 #### 2294. Partition Array Such That Maximum Difference Is K
+#### 2300. Successful Pairs of Spells and Potions
 #### 2311. Longest Binary Subsequence Less Than or Equal to K
 #### 2326. Spiral Matrix IV
 #### 2342. Max Sum of a Pair With Equal Sum of Digits
@@ -320,12 +321,13 @@
 #### 3484. Design Spreadsheet
 #### 3508. Implement Router
 
-### Hard finish 25
+### Hard finish 26
 #### 135. Candy
 #### 407. Trapping Rain Water II
 #### 440. K-th Smallest in Lexicographical Order
 #### 632. Smallest Range Covering Elements from K Lists
 #### 773. Sliding Puzzle
+#### 778. Swim in Rising Water
 #### 862. Shortest Subarray with Sum at Least K
 #### 1028. Recover a Tree From Preorder Traversal
 #### 1298. Maximum Candies You Can Get from Boxes
@@ -347,4 +349,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 338
+### Total finish 340
