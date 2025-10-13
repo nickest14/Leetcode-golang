@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 87
+### Easy finish 88
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -56,6 +56,7 @@
 #### 2210. Count Hills and Valleys in an Array
 #### 2220. Minimum Bit Flips to Convert Number
 #### 2264. Largest 3-Same-Digit Number in String
+#### 2273. Find Resultant Array After Removing Anagrams
 #### 2379. Minimum Recolors to Get K Consecutive Black Blocks
 #### 2418. Sort the People
 #### 2460. Apply Operations to an Array
@@ -92,7 +93,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 227
+### Medinum finish 230
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -292,11 +293,13 @@
 #### 3085. Minimum Deletions to Make String K-Special
 #### 3097. Shortest Subarray With OR at Least K II
 #### 3100. Water Bottles II
+#### 3147. Taking Maximum Energy From the Mystic Dungeon
 #### 3152. Special Array II
 #### 3160. Find the Number of Distinct Colors Among the Balls
 #### 3163. String Compression III
 #### 3169. Count Days Without Meetings
 #### 3170. Lexicographically Minimum String After Removing Stars
+#### 3186. Maximum Total Damage With Spell Casting
 #### 3195. Find the Minimum Area to Cover All Ones I
 #### 3201. Find the Maximum Length of Valid Subsequence I
 #### 3202. Find the Maximum Length of Valid Subsequence II
@@ -319,6 +322,7 @@
 #### 3443. Maximum Manhattan Distance After K Changes
 #### 3446. Sort Matrix by Diagonals
 #### 3484. Design Spreadsheet
+#### 3494. Find the Minimum Amount of Time to Brew Potions
 #### 3508. Implement Router
 
 ### Hard finish 26
@@ -349,4 +353,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 340
+### Total finish 344
