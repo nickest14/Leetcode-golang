@@ -94,7 +94,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 231
+### Medinum finish 233
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -256,6 +256,7 @@
 #### 2579. Count Total Number of Colored Cells
 #### 2583. Kth Largest Sum in a Binary Tree
 #### 2593. Find Score of an Array After Marking All Elements
+#### 2598. Smallest Missing Non-negative Integer After Operations
 #### 2601. Prime Subtraction Operation
 #### 2616. Minimize the Maximum Difference of Pairs
 #### 2641. Cousins in Binary Tree II
@@ -317,6 +318,7 @@
 #### 3356. Zero Array Transformation II
 #### 3372. Maximize the Number of Target Nodes After Connecting Trees I
 #### 3394. Check if Grid can be Cut into Sections
+#### 3397. Maximum Number of Distinct Elements After Operations
 #### 3403. Find the Lexicographically Largest String From the Box I
 #### 3408. Design Task Manager
 #### 3439. Reschedule Meetings for Maximum Free Time I
@@ -355,4 +357,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 346
+### Total finish 348
