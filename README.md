@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 89
+### Easy finish 90
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -45,6 +45,7 @@
 #### 1935. Maximum Number of Words You Can Type
 #### 1945. Sum of Digits of String After Convert
 #### 1957. Delete Characters to Make Fancy String
+#### 2011. Final Value of Variable After Performing Operations
 #### 2016. Maximum Difference Between Increasing Elements
 #### 2022. Convert 1D Array Into 2D Array
 #### 2094. Finding 3-Digit Even Numbers
@@ -94,7 +95,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 233
+### Medinum finish 234
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -175,6 +176,7 @@
 #### 1574. Shortest Subarray to be Removed to Make Array Sorted
 #### 1590. Make Sum Divisible by P
 #### 1593. Split a String Into the Max Number of Unique Substrings
+#### 1625. Lexicographically Smallest String After Applying Operations
 #### 1653. Minimum Deletions to Make String Balanced
 #### 1695. Maximum Erasure Value
 #### 1717. Maximum Score From Removing Substrings
@@ -357,4 +359,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 348
+### Total finish 350
