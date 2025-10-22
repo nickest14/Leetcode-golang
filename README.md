@@ -95,7 +95,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 234
+### Medinum finish 235
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -315,6 +315,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 #### 3306. Count of Substrings Containing Every Vowel and K Consonants II
 #### 3335. Total Characters in String After Transformations I
+#### 3346. Maximum Frequency of an Element After Performing Operations I
 #### 3350. Adjacent Increasing Subarrays Detection II
 #### 3355. Zero Array Transformation I
 #### 3356. Zero Array Transformation II
@@ -331,7 +332,7 @@
 #### 3494. Find the Minimum Amount of Time to Brew Potions
 #### 3508. Implement Router
 
-### Hard finish 26
+### Hard finish 27
 #### 135. Candy
 #### 407. Trapping Rain Water II
 #### 440. K-th Smallest in Lexicographical Order
@@ -356,7 +357,8 @@
 #### 2940. Find Building Where Alice and Bob Can Meet
 #### 3027. Find the Number of Ways to Place People II
 #### 3068. Find the Maximum Sum of Node Values
+#### 3347. Maximum Frequency of an Element After Performing Operations II
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 350
+### Total finish 352
