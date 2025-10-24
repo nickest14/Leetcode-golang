@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 90
+### Easy finish 91
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -90,12 +90,13 @@
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
 #### 3442. Maximum Difference Between Even and Odd Frequency I
+#### 3461. Check If Digits Are Equal in String After Operations I
 #### 3477. Fruits Into Baskets II
 #### 3487. Maximum Unique Subarray Sum After Deletion
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 235
+### Medinum finish 236
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -204,6 +205,7 @@
 #### 2017. Grid Game
 #### 2033. Minimum Operations to Make a Uni-Value Grid
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
+#### 2048. Next Greater Numerically Balanced Number
 #### 2054. Two Best Non-Overlapping Events
 #### 2064. Minimized Maximum of Products Distributed to Any Store
 #### 2070. Most Beautiful Item for Each Query
@@ -361,4 +363,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 352
+### Total finish 354
