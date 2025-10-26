@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 91
+### Easy finish 92
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -37,6 +37,7 @@
 #### 1636. Sort Array by Increasing Frequency
 #### 1652. Defuse the Bomb
 #### 1684. Count the Number of Consistent Strings
+#### 1716. Calculate Money in Leetcode Bank
 #### 1752. Check if Array Is Sorted and Rotated
 #### 1790. Check if One String Swap Can Make Strings Equal
 #### 1800. Maximum Ascending Subarray Sum
@@ -96,7 +97,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 236
+### Medinum finish 237
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -204,6 +205,7 @@
 #### 1980. Find Unique Binary String
 #### 2017. Grid Game
 #### 2033. Minimum Operations to Make a Uni-Value Grid
+#### 2043. Simple Bank System
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
 #### 2048. Next Greater Numerically Balanced Number
 #### 2054. Two Best Non-Overlapping Events
@@ -363,4 +365,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 354
+### Total finish 356
