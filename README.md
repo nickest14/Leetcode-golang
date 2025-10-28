@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 92
+### Easy finish 93
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -86,6 +86,7 @@
 #### 3304. Find the K-th Character in String Game I
 #### 3330. Find the Original Typed String I
 #### 3349. Adjacent Increasing Subarrays Detection I
+#### 3354. Make Array Elements Equal to Zero
 #### 3375. Minimum Operations to Make Array Values Equal to K
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
@@ -97,7 +98,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 237
+### Medinum finish 238
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -213,6 +214,7 @@
 #### 2070. Most Beautiful Item for Each Query
 #### 2109. Adding Spaces to a String
 #### 2116. Check if a Parentheses String Can Be Valid
+#### 2125. Number of Laser Beams in a Bank
 #### 2131. Longest Palindrome by Concatenating Two Letter Words
 #### 2134. Minimum Swaps to Group All 1's Together II
 #### 2140. Solving Questions With Brainpower
@@ -365,4 +367,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 356
+### Total finish 358
