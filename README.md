@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 93
+### Easy finish 94
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -87,6 +87,7 @@
 #### 3330. Find the Original Typed String I
 #### 3349. Adjacent Increasing Subarrays Detection I
 #### 3354. Make Array Elements Equal to Zero
+#### 3370. Smallest Number With All Set Bits
 #### 3375. Minimum Operations to Make Array Values Equal to K
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
@@ -338,7 +339,7 @@
 #### 3494. Find the Minimum Amount of Time to Brew Potions
 #### 3508. Implement Router
 
-### Hard finish 27
+### Hard finish 28
 #### 135. Candy
 #### 407. Trapping Rain Water II
 #### 440. K-th Smallest in Lexicographical Order
@@ -349,6 +350,7 @@
 #### 1028. Recover a Tree From Preorder Traversal
 #### 1298. Maximum Candies You Can Get from Boxes
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
+#### 1526. Minimum Number of Increments on Subarrays to Form a Target Array
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
 #### 1751. Maximum Number of Events That Can Be Attended II
 #### 2106. Maximum Fruits Harvested After at Most K Steps
@@ -367,4 +369,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 358
+### Total finish 360
