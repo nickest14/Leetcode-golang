@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 95
+### Easy finish 97
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -14,6 +14,7 @@
 #### 476. Number Complement
 #### 590. N-ary Tree Postorder Traversal
 #### 594. Longest Harmonious Subsequence
+#### 717. 1-bit and 2-bit Characters
 #### 796. Rotate String
 #### 812. Largest Triangle Area
 #### 884. Uncommon Words from Two Sentences
@@ -29,6 +30,7 @@
 #### 1399. Count Largest Group
 #### 1408. String Matching in an Array
 #### 1422. Maximum Score After Splitting a String
+#### 1437. Check If All 1's Are at Least Length K Places Away
 #### 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
 #### 1460. Make Two Arrays Equal by Reversing Subarrays
 #### 1475. Final Prices With a Special Discount in a Shop
@@ -371,4 +373,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 362
+### Total finish 364
