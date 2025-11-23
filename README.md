@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 98
+### Easy finish 99
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -85,6 +85,7 @@
 #### 3136. Valid Word
 #### 3151. Special Array I
 #### 3174. Clear Digits
+#### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 #### 3264. Final Array State After K Multiplication Operations I
 #### 3289. The Two Sneaky Numbers of Digitville
 #### 3304. Find the K-th Character in String Game I
@@ -103,7 +104,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 239
+### Medinum finish 240
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -159,6 +160,7 @@
 #### 1123. Lowest Common Ancestor of Deepest Leaves
 #### 1233. Remove Sub-Folders from the Filesystem
 #### 1261. Find Elements in a Contaminated Binary Tree
+#### 1262. Greatest Sum Divisible by Three
 #### 1267. Count Servers that Communicate
 #### 1277. Count Square Submatrices with All Ones
 #### 1310. XOR Queries of a Subarray
@@ -375,4 +377,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 366
+### Total finish 368
