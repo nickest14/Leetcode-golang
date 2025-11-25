@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 99
+### Easy finish 100
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -19,6 +19,7 @@
 #### 812. Largest Triangle Area
 #### 884. Uncommon Words from Two Sentences
 #### 976. Largest Perimeter Triangle
+#### 1018. Binary Prefix Divisible By 5
 #### 1128. Number of Equivalent Domino Pairs
 #### 1290. Convert Binary Number in a Linked List to Integer
 #### 1295. Find Numbers with Even Number of Digits
@@ -104,7 +105,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 240
+### Medinum finish 241
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -152,6 +153,7 @@
 #### 966. Vowel Spellchecker
 #### 1007. Minimum Domino Rotations For Equal Row
 #### 1014. Best Sightseeing Pair
+#### 1015. Smallest Integer Divisible by K
 #### 1039. Minimum Score Triangulation of Polygon
 #### 1061. Lexicographically Smallest Equivalent String
 #### 1072. Flip Columns For Maximum Number of Equal Rows
@@ -377,4 +379,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 368
+### Total finish 370
