@@ -105,7 +105,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 241
+### Medinum finish 242
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -336,6 +336,7 @@
 #### 3355. Zero Array Transformation I
 #### 3356. Zero Array Transformation II
 #### 3372. Maximize the Number of Target Nodes After Connecting Trees I
+#### 3381. Maximum Subarray Sum With Length Divisible by K
 #### 3394. Check if Grid can be Cut into Sections
 #### 3397. Maximum Number of Distinct Elements After Operations
 #### 3403. Find the Lexicographically Largest String From the Box I
@@ -379,4 +380,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 370
+### Total finish 371
