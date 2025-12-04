@@ -106,7 +106,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 242
+### Medinum finish 244
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -233,6 +233,7 @@
 #### 2161. Partition Array According to Given Pivot
 #### 2182. Construct String With Repeat Limit
 #### 2191. Sort the Jumbled Numbers
+#### 2211. Count Collisions on a Road
 #### 2221. Find Triangular Sum of an Array
 #### 2226. Maximum Candies Allocated to K Children
 #### 2257. Count Unguarded Cells in the Grid
@@ -349,6 +350,7 @@
 #### 3484. Design Spreadsheet
 #### 3494. Find the Minimum Amount of Time to Brew Potions
 #### 3508. Implement Router
+#### 3623. Count Number of Trapezoids I
 
 ### Hard finish 30
 #### 135. Candy
@@ -382,4 +384,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 373
+### Total finish 375
