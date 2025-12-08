@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 101
+### Easy finish 103
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -36,6 +36,7 @@
 #### 1460. Make Two Arrays Equal by Reversing Subarrays
 #### 1475. Final Prices With a Special Discount in a Shop
 #### 1518. Water Bottles
+#### 1523. Count Odd Numbers in an Interval Range
 #### 1550. Three Consecutive Odds
 #### 1636. Sort Array by Increasing Frequency
 #### 1652. Defuse the Bomb
@@ -46,6 +47,7 @@
 #### 1800. Maximum Ascending Subarray Sum
 #### 1863. Sum of All Subset XOR Totals
 #### 1920. Build Array from Permutation
+#### 1925. Count Square Sum Triples
 #### 1935. Maximum Number of Words You Can Type
 #### 1945. Sum of Digits of String After Convert
 #### 1957. Delete Characters to Make Fancy String
@@ -384,4 +386,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 375
+### Total finish 377
