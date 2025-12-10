@@ -108,7 +108,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 244
+### Medinum finish 246
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -352,6 +352,8 @@
 #### 3484. Design Spreadsheet
 #### 3494. Find the Minimum Amount of Time to Brew Potions
 #### 3508. Implement Router
+#### 3577. Count the Number of Computer Unlocking Permutations
+#### 3583. Count Special Triplets
 #### 3623. Count Number of Trapezoids I
 
 ### Hard finish 30
@@ -386,4 +388,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 377
+### Total finish 379
