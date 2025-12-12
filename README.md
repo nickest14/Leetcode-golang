@@ -108,7 +108,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medinum finish 246
+### Medinum finish 248
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -345,6 +345,7 @@
 #### 3397. Maximum Number of Distinct Elements After Operations
 #### 3403. Find the Lexicographically Largest String From the Box I
 #### 3408. Design Task Manager
+#### 3433. Count Mentions Per User
 #### 3439. Reschedule Meetings for Maximum Free Time I
 #### 3440. Reschedule Meetings for Maximum Free Time II
 #### 3443. Maximum Manhattan Distance After K Changes
@@ -352,6 +353,7 @@
 #### 3484. Design Spreadsheet
 #### 3494. Find the Minimum Amount of Time to Brew Potions
 #### 3508. Implement Router
+#### 3531. Count Covered Buildings
 #### 3577. Count the Number of Computer Unlocking Permutations
 #### 3583. Count Special Triplets
 #### 3623. Count Number of Trapezoids I
@@ -388,4 +390,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 379
+### Total finish 381
