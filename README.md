@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 103
+### Easy finish 104
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -107,8 +107,9 @@
 #### 3512. Minimum Operations to Make Array Sum Divisible by K
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
+#### 3606. Coupon Code Validator
 
-### Medinum finish 248
+### Medinum finish 249
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -226,6 +227,7 @@
 #### 2064. Minimized Maximum of Products Distributed to Any Store
 #### 2070. Most Beautiful Item for Each Query
 #### 2109. Adding Spaces to a String
+#### 2110. Number of Smooth Descent Periods of a Stock
 #### 2116. Check if a Parentheses String Can Be Valid
 #### 2125. Number of Laser Beams in a Bank
 #### 2131. Longest Palindrome by Concatenating Two Letter Words
@@ -390,4 +392,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 381
+### Total finish 383
