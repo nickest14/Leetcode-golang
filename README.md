@@ -109,7 +109,7 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 
-### Medinum finish 249
+### Medinum finish 250
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -356,6 +356,7 @@
 #### 3494. Find the Minimum Amount of Time to Brew Potions
 #### 3508. Implement Router
 #### 3531. Count Covered Buildings
+#### 3573. Best Time to Buy and Sell Stock V
 #### 3577. Count the Number of Computer Unlocking Permutations
 #### 3583. Count Special Triplets
 #### 3623. Count Number of Trapezoids I
@@ -392,4 +393,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 383
+### Total finish 384
