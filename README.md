@@ -109,7 +109,7 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 
-### Medinum finish 250
+### Medinum finish 251
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -360,8 +360,9 @@
 #### 3577. Count the Number of Computer Unlocking Permutations
 #### 3583. Count Special Triplets
 #### 3623. Count Number of Trapezoids I
+#### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 30
+### Hard finish 31
 #### 135. Candy
 #### 407. Trapping Rain Water II
 #### 440. K-th Smallest in Lexicographical Order
@@ -376,6 +377,7 @@
 #### 1526. Minimum Number of Increments on Subarrays to Form a Target Array
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
 #### 1751. Maximum Number of Events That Can Be Attended II
+#### 2092. Find All People With Secret
 #### 2106. Maximum Fruits Harvested After at Most K Steps
 #### 2141. Maximum Running Time of N Computers
 #### 2197. Replace Non-Coprime Numbers in Array
@@ -393,4 +395,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 384
+### Total finish 386
