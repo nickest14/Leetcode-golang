@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 105
+### Easy finish 106
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -85,6 +85,7 @@
 #### 3005. Count Elements With Maximum Frequency
 #### 3024. Type of Triangle
 #### 3042. Count Prefix and Suffix Pairs I
+#### 3074. Apple Redistribution into Boxes
 #### 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
 #### 3136. Valid Word
 #### 3151. Special Array I
@@ -364,7 +365,7 @@
 #### 3623. Count Number of Trapezoids I
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 31
+### Hard finish 32
 #### 135. Candy
 #### 407. Trapping Rain Water II
 #### 440. K-th Smallest in Lexicographical Order
@@ -373,6 +374,7 @@
 #### 773. Sliding Puzzle
 #### 778. Swim in Rising Water
 #### 862. Shortest Subarray with Sum at Least K
+#### 960. Delete Columns to Make Sorted III
 #### 1028. Recover a Tree From Preorder Traversal
 #### 1298. Maximum Candies You Can Get from Boxes
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
@@ -397,4 +399,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 388
+### Total finish 390
