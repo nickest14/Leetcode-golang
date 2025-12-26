@@ -111,7 +111,7 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 
-### Medinum finish 252
+### Medinum finish 254
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -270,6 +270,7 @@
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
 #### 2466. Count Ways To Build Good Strings
 #### 2471. Minimum Number of Operations to Sort a Binary Tree by Level
+#### 2483. Minimum Penalty for a Shop
 #### 2491. Divide Players Into Teams of Equal Skill
 #### 2501. Longest Square Streak in an Array
 #### 2516. Take K of Each Character From Left and Right
@@ -319,6 +320,7 @@
 #### 3025. Find the Number of Ways to Place People I
 #### 3043. Find the Length of the Longest Common Prefix
 #### 3066. Minimum Operations to Exceed Threshold Value II
+#### 3075. Maximize Happiness of Selected Children
 #### 3085. Minimum Deletions to Make String K-Special
 #### 3097. Shortest Subarray With OR at Least K II
 #### 3100. Water Bottles II
@@ -399,4 +401,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 390
+### Total finish 392
