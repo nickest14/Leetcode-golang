@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 106
+### Easy finish 107
 
 #### 1. Two Sum
 #### 100. Same Tree
@@ -28,6 +28,7 @@
 #### 1317. Convert Integer to the Sum of Two No-Zero Integers
 #### 1323. Maximum 69 Number
 #### 1331. Rank Transform of an Array
+#### 1351. Count Negative Numbers in a Sorted Matrix
 #### 1394. Find Lucky Integer in an Array
 #### 1399. Count Largest Group
 #### 1408. String Matching in an Array
@@ -111,7 +112,7 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 
-### Medinum finish 254
+### Medinum finish 255
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -137,6 +138,7 @@
 #### 725. Split Linked List in Parts
 #### 729. My Calendar I
 #### 731. My Calendar II
+#### 756. Pyramid Transition Matrix
 #### 763. Partition Labels
 #### 769. Max Chunks To Make Sorted
 #### 781. Rabbits in Forest
@@ -401,4 +403,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 392
+### Total finish 394
