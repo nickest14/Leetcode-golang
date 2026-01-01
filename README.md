@@ -2,9 +2,10 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 107
+### Easy finish 108
 
 #### 1. Two Sum
+#### 66. Plus One
 #### 100. Same Tree
 #### 101. Symmetric Tree
 #### 118. Pascal's Triangle
@@ -112,7 +113,7 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 
-### Medinum finish 255
+### Medinum finish 256
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -147,6 +148,7 @@
 #### 808. Soup Servings
 #### 837. New 21 Game
 #### 838. Push Dominoes
+#### 840. Magic Squares In Grid
 #### 869. Reordered Power of 2
 #### 873. Length of Longest Fibonacci Subsequence
 #### 889. Construct Binary Tree from Preorder and Postorder Traversal
@@ -403,4 +405,4 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 394
+### Total finish 396
