@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 108
+### Easy finish 109
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -20,6 +20,7 @@
 #### 812. Largest Triangle Area
 #### 884. Uncommon Words from Two Sentences
 #### 944. Delete Columns to Make Sorted
+#### 961. N-Repeated Element in Size 2N Array
 #### 976. Largest Perimeter Triangle
 #### 1018. Binary Prefix Divisible By 5
 #### 1128. Number of Equivalent Domino Pairs
@@ -371,7 +372,7 @@
 #### 3623. Count Number of Trapezoids I
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 32
+### Hard finish 33
 #### 135. Candy
 #### 407. Trapping Rain Water II
 #### 440. K-th Smallest in Lexicographical Order
@@ -384,6 +385,7 @@
 #### 1028. Recover a Tree From Preorder Traversal
 #### 1298. Maximum Candies You Can Get from Boxes
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
+#### 1411. Number of Ways to Paint N × 3 Grid
 #### 1526. Minimum Number of Increments on Subarrays to Form a Target Array
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
 #### 1751. Maximum Number of Events That Can Be Attended II
@@ -405,4 +407,5 @@
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 396
+
+### Total finish 398
