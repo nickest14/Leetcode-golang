@@ -114,7 +114,7 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 
-### Medinum finish 258
+### Medinum finish 260
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -150,6 +150,7 @@
 #### 837. New 21 Game
 #### 838. Push Dominoes
 #### 840. Magic Squares In Grid
+#### 865. Smallest Subtree with all the Deepest Nodes
 #### 869. Reordered Power of 2
 #### 873. Length of Longest Fibonacci Subsequence
 #### 889. Construct Binary Tree from Preorder and Postorder Traversal
@@ -179,6 +180,7 @@
 #### 1267. Count Servers that Communicate
 #### 1277. Count Square Submatrices with All Ones
 #### 1310. XOR Queries of a Subarray
+#### 1339. Maximum Product of Splitted Binary Tree
 #### 1346. Check If N and Its Double Exist
 #### 1352. Product of the Last K Numbers
 #### 1353. Maximum Number of Events That Can Be Attended
@@ -410,4 +412,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 
 
-### Total finish 400
+### Total finish 402
