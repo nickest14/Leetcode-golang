@@ -376,7 +376,8 @@
 #### 3623. Count Number of Trapezoids I
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 33
+### Hard finish 34
+#### 85. Maximal Rectangle
 #### 135. Candy
 #### 407. Trapping Rain Water II
 #### 440. K-th Smallest in Lexicographical Order
@@ -412,4 +413,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 
 
-### Total finish 402
+### Total finish 403
