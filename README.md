@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 109
+### Easy finish 110
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -24,6 +24,7 @@
 #### 976. Largest Perimeter Triangle
 #### 1018. Binary Prefix Divisible By 5
 #### 1128. Number of Equivalent Domino Pairs
+#### 1266. Minimum Time Visiting All Points
 #### 1290. Convert Binary Number in a Linked List to Integer
 #### 1295. Find Numbers with Even Number of Digits
 #### 1304. Find N Unique Integers Sum up to Zero
@@ -114,7 +115,7 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 
-### Medinum finish 260
+### Medinum finish 261
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -366,6 +367,7 @@
 #### 3440. Reschedule Meetings for Maximum Free Time II
 #### 3443. Maximum Manhattan Distance After K Changes
 #### 3446. Sort Matrix by Diagonals
+#### 3453. Separate Squares I
 #### 3484. Design Spreadsheet
 #### 3494. Find the Minimum Amount of Time to Brew Potions
 #### 3508. Implement Router
@@ -413,4 +415,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 
 
-### Total finish 403
+### Total finish 405
