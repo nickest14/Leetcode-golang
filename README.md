@@ -115,7 +115,7 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 
-### Medinum finish 261
+### Medinum finish 263
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -322,8 +322,10 @@
 #### 2924. Find Champion II
 #### 2929. Distribute Candies Among Children II
 #### 2938. Separate Black and White Balls
+#### 2943. Maximize Area of Square Hole in Grid
 #### 2962. Count Subarrays Where Max Element Appears at Least K Times
 #### 2966. Divide Array Into Arrays With Max Difference
+#### 2975. Maximum Square Area by Removing Fences From a Field
 #### 2981. Find Longest Special Substring That Occurs Thrice I
 #### 3011. Find if Array Can Be Sorted
 #### 3021. Alice and Bob Playing Flower Game
@@ -415,4 +417,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 
 
-### Total finish 405
+### Total finish 407
