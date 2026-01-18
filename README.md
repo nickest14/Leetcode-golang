@@ -115,7 +115,7 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 
-### Medinum finish 263
+### Medinum finish 265
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -224,6 +224,7 @@
 #### 1861. Rotating the Box
 #### 1865. Finding Pairs With a Certain Sum
 #### 1894. Find the Student that Will Replace the Chalk
+#### 1895. Largest Magic Square
 #### 1910. Remove All Occurrences of a Substring
 #### 1922. Count Good Numbers
 #### 1930. Unique Length-3 Palindromic Subsequences
@@ -331,6 +332,7 @@
 #### 3021. Alice and Bob Playing Flower Game
 #### 3025. Find the Number of Ways to Place People I
 #### 3043. Find the Length of the Longest Common Prefix
+#### 3047. Find the Largest Area of Square Inside Two Rectangles
 #### 3066. Minimum Operations to Exceed Threshold Value II
 #### 3075. Maximize Happiness of Selected Children
 #### 3085. Minimum Deletions to Make String K-Special
@@ -417,4 +419,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 
 
-### Total finish 407
+### Total finish 409
