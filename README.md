@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 111
+### Easy finish 112
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -111,12 +111,13 @@
 #### 3461. Check If Digits Are Equal in String After Operations I
 #### 3477. Fruits Into Baskets II
 #### 3487. Maximum Unique Subarray Sum After Deletion
+#### 3507. Minimum Pair Removal to Sort Array I
 #### 3512. Minimum Operations to Make Array Sum Divisible by K
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 
-### Medinum finish 266
+### Medinum finish 267
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -357,6 +358,7 @@
 #### 3243. Shortest Distance After Road Addition Queries I
 #### 3254. Find the Power of K-Size Subarrays I
 #### 3306. Count of Substrings Containing Every Vowel and K Consonants II
+#### 3315. Construct the Minimum Bitwise Array II
 #### 3335. Total Characters in String After Transformations I
 #### 3346. Maximum Frequency of an Element After Performing Operations I
 #### 3350. Adjacent Increasing Subarrays Detection II
@@ -421,4 +423,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 
 
-### Total finish 411
+### Total finish 413
