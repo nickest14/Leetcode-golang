@@ -117,7 +117,7 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 
-### Medinum finish 267
+### Medinum finish 268
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -226,6 +226,7 @@
 #### 1829. Maximum XOR for Each Query
 #### 1861. Rotating the Box
 #### 1865. Finding Pairs With a Certain Sum
+#### 1877. Minimize Maximum Pair Sum in Array
 #### 1894. Find the Student that Will Replace the Chalk
 #### 1895. Largest Magic Square
 #### 1910. Remove All Occurrences of a Substring
@@ -423,4 +424,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 
 
-### Total finish 413
+### Total finish 414
