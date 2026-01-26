@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 112
+### Easy finish 114
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -24,6 +24,7 @@
 #### 976. Largest Perimeter Triangle
 #### 1018. Binary Prefix Divisible By 5
 #### 1128. Number of Equivalent Domino Pairs
+#### 1200. Minimum Absolute Difference
 #### 1266. Minimum Time Visiting All Points
 #### 1290. Convert Binary Number in a Linked List to Integer
 #### 1295. Find Numbers with Even Number of Digits
@@ -56,6 +57,7 @@
 #### 1935. Maximum Number of Words You Can Type
 #### 1945. Sum of Digits of String After Convert
 #### 1957. Delete Characters to Make Fancy String
+#### 1984. Minimum Difference Between Highest and Lowest of K Scores
 #### 2011. Final Value of Variable After Performing Operations
 #### 2016. Maximum Difference Between Increasing Elements
 #### 2022. Convert 1D Array Into 2D Array
@@ -424,4 +426,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 
 
-### Total finish 414
+### Total finish 416
