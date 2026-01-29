@@ -119,7 +119,7 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 
-### Medinum finish 268
+### Medinum finish 270
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -333,6 +333,7 @@
 #### 2962. Count Subarrays Where Max Element Appears at Least K Times
 #### 2966. Divide Array Into Arrays With Max Difference
 #### 2975. Maximum Square Area by Removing Fences From a Field
+#### 2976. Minimum Cost to Convert String I
 #### 2981. Find Longest Special Substring That Occurs Thrice I
 #### 3011. Find if Array Can Be Sorted
 #### 3021. Alice and Bob Playing Flower Game
@@ -387,6 +388,7 @@
 #### 3577. Count the Number of Computer Unlocking Permutations
 #### 3583. Count Special Triplets
 #### 3623. Count Number of Trapezoids I
+#### 3650. Minimum Cost Path with Edge Reversals
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
 ### Hard finish 34
@@ -426,4 +428,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 
 
-### Total finish 416
+### Total finish 418
