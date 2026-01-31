@@ -9,13 +9,13 @@ type params struct {
 	bits []int
 }
 
-type question594 struct {
+type question717 struct {
 	params
 	ans bool
 }
 
-func Test_Problem594(t *testing.T) {
-	qs := []question594{
+func Test_Problem717(t *testing.T) {
+	qs := []question717{
 		{
 			params{[]int{1, 0, 0}},
 			true,

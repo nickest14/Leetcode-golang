@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 114
+### Easy finish 115
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -16,6 +16,7 @@
 #### 590. N-ary Tree Postorder Traversal
 #### 594. Longest Harmonious Subsequence
 #### 717. 1-bit and 2-bit Characters
+#### 744. Find Smallest Letter Greater Than Target
 #### 796. Rotate String
 #### 812. Largest Triangle Area
 #### 884. Uncommon Words from Two Sentences
@@ -428,4 +429,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 
 
-### Total finish 418
+### Total finish 419
