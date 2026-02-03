@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 115
+### Easy finish 117
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -90,6 +90,7 @@
 #### 2965. Find Missing and Repeated Values
 #### 3000. Maximum Area of Longest Diagonal Rectangle
 #### 3005. Count Elements With Maximum Frequency
+#### 3010. Divide an Array Into Subarrays With Minimum Cost I
 #### 3024. Type of Triangle
 #### 3042. Count Prefix and Suffix Pairs I
 #### 3074. Apple Redistribution into Boxes
@@ -119,6 +120,7 @@
 #### 3516. Find Closest Person
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
+#### 3637. Trionic Array I
 
 ### Medinum finish 270
 #### 2. Add Two Numbers
@@ -429,4 +431,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 
 
-### Total finish 419
+### Total finish 421
