@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 117
+### Easy finish 118
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -108,6 +108,7 @@
 #### 3354. Make Array Elements Equal to Zero
 #### 3370. Smallest Number With All Set Bits
 #### 3375. Minimum Operations to Make Array Values Equal to K
+#### 3379. Transformed Array
 #### 3392. Count Subarrays of Length Three With a Condition
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
@@ -394,7 +395,7 @@
 #### 3650. Minimum Cost Path with Edge Reversals
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 34
+### Hard finish 35
 #### 85. Maximal Rectangle
 #### 135. Candy
 #### 407. Trapping Rain Water II
@@ -429,6 +430,6 @@
 #### 3347. Maximum Frequency of an Element After Performing Operations II
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 #### 3495. Minimum Operations to Make Array Elements Zero
+#### 3640. Trionic Array II
 
-
-### Total finish 421
+### Total finish 423
