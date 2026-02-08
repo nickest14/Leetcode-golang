@@ -2,12 +2,13 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 118
+### Easy finish 119
 
 #### 1. Two Sum
 #### 66. Plus One
 #### 100. Same Tree
 #### 101. Symmetric Tree
+#### 110. Balanced Binary Tree
 #### 118. Pascal's Triangle
 #### 231. Power of Two
 #### 326. Power of Three
@@ -123,7 +124,7 @@
 #### 3606. Coupon Code Validator
 #### 3637. Trionic Array I
 
-### Medinum finish 270
+### Medinum finish 271
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -392,6 +393,7 @@
 #### 3577. Count the Number of Computer Unlocking Permutations
 #### 3583. Count Special Triplets
 #### 3623. Count Number of Trapezoids I
+#### 3634. Minimum Removals to Balance Array
 #### 3650. Minimum Cost Path with Edge Reversals
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
@@ -432,4 +434,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 423
+### Total finish 425
