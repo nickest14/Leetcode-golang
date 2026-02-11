@@ -124,7 +124,7 @@
 #### 3606. Coupon Code Validator
 #### 3637. Trionic Array I
 
-### Medinum finish 271
+### Medinum finish 273
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -199,6 +199,7 @@
 #### 1367. Linked List in Binary Tree
 #### 1371. Find the Longest Substring Containing Vowels in Even Counts
 #### 1381. Design a Stack With Increment Operation
+#### 1382. Balance a Binary Search Tree
 #### 1390. Four Divisors
 #### 1395. Count Number of Teams
 #### 1400. Construct K Palindrome Strings
@@ -396,6 +397,7 @@
 #### 3634. Minimum Removals to Balance Array
 #### 3650. Minimum Cost Path with Edge Reversals
 #### 3652. Best Time to Buy and Sell Stock using Strategy
+#### 3719. Longest Balanced Subarray I
 
 ### Hard finish 35
 #### 85. Maximal Rectangle
@@ -434,4 +436,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 425
+### Total finish 427
