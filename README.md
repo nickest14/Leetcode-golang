@@ -124,7 +124,7 @@
 #### 3606. Coupon Code Validator
 #### 3637. Trionic Array I
 
-### Medinum finish 273
+### Medinum finish 274
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -397,6 +397,7 @@
 #### 3634. Minimum Removals to Balance Array
 #### 3650. Minimum Cost Path with Edge Reversals
 #### 3652. Best Time to Buy and Sell Stock using Strategy
+#### 3713. Longest Balanced Substring I
 #### 3719. Longest Balanced Subarray I
 
 ### Hard finish 35
@@ -436,4 +437,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 427
+### Total finish 428
