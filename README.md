@@ -126,7 +126,7 @@
 #### 3606. Coupon Code Validator
 #### 3637. Trionic Array I
 
-### Medinum finish 275
+### Medinum finish 277
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -205,6 +205,7 @@
 #### 1390. Four Divisors
 #### 1395. Count Number of Teams
 #### 1400. Construct K Palindrome Strings
+#### 1404. Number of Steps to Reduce a Number in Binary Representation to One
 #### 1405. Longest Happy String
 #### 1415. The k-th Lexicographical String of All Happy Strings of Length n
 #### 1432. Max Difference You Can Get From Changing an Integer
@@ -222,6 +223,7 @@
 #### 1593. Split a String Into the Max Number of Unique Substrings
 #### 1625. Lexicographically Smallest String After Applying Operations
 #### 1653. Minimum Deletions to Make String Balanced
+#### 1680. Concatenation of Consecutive Binary Numbers
 #### 1695. Maximum Erasure Value
 #### 1717. Maximum Score From Removing Substrings
 #### 1718. Construct the Lexicographically Largest Valid Sequence
@@ -440,4 +442,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 431
+### Total finish 433
