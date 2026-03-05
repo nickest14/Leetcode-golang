@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 121
+### Easy finish 123
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -48,11 +48,13 @@
 #### 1518. Water Bottles
 #### 1523. Count Odd Numbers in an Interval Range
 #### 1550. Three Consecutive Odds
+#### 1582. Special Positions in a Binary Matrix
 #### 1636. Sort Array by Increasing Frequency
 #### 1652. Defuse the Bomb
 #### 1684. Count the Number of Consistent Strings
 #### 1716. Calculate Money in Leetcode Bank
 #### 1752. Check if Array Is Sorted and Rotated
+#### 1758. Minimum Changes To Make Alternating Binary String
 #### 1790. Check if One String Swap Can Make Strings Equal
 #### 1800. Maximum Ascending Subarray Sum
 #### 1863. Sum of All Subset XOR Totals
@@ -444,4 +446,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 435
+### Total finish 437
