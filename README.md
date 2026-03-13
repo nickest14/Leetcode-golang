@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 123
+### Easy finish 125
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -24,6 +24,7 @@
 #### 944. Delete Columns to Make Sorted
 #### 961. N-Repeated Element in Size 2N Array
 #### 976. Largest Perimeter Triangle
+#### 1009. Complement of Base 10 Integer
 #### 1018. Binary Prefix Divisible By 5
 #### 1022. Sum of Root To Leaf Binary Numbers
 #### 1128. Number of Equivalent Domino Pairs
@@ -55,6 +56,7 @@
 #### 1716. Calculate Money in Leetcode Bank
 #### 1752. Check if Array Is Sorted and Rotated
 #### 1758. Minimum Changes To Make Alternating Binary String
+#### 1784. Check if Binary String Has at Most One Segment of Ones
 #### 1790. Check if One String Swap Can Make Strings Equal
 #### 1800. Maximum Ascending Subarray Sum
 #### 1863. Sum of All Subset XOR Totals
@@ -128,7 +130,7 @@
 #### 3606. Coupon Code Validator
 #### 3637. Trionic Array I
 
-### Medinum finish 279
+### Medinum finish 280
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -376,6 +378,7 @@
 #### 3227. Vowels Game in a String
 #### 3243. Shortest Distance After Road Addition Queries I
 #### 3254. Find the Power of K-Size Subarrays I
+#### 3296. Minimum Number of Seconds to Make Mountain Height Zero
 #### 3306. Count of Substrings Containing Every Vowel and K Consonants II
 #### 3315. Construct the Minimum Bitwise Array II
 #### 3335. Total Characters in String After Transformations I
@@ -446,4 +449,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 437
+### Total finish 440
