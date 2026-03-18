@@ -130,7 +130,7 @@
 #### 3606. Coupon Code Validator
 #### 3637. Trionic Array I
 
-### Medinum finish 280
+### Medinum finish 282
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -234,6 +234,7 @@
 #### 1717. Maximum Score From Removing Substrings
 #### 1718. Construct the Lexicographically Largest Valid Sequence
 #### 1726. Tuple with Same Product
+#### 1727. Largest Submatrix With Rearrangements
 #### 1733. Minimum Number of People to Teach
 #### 1749. Maximum Absolute Sum of Any Subarray
 #### 1760. Minimum Limit of Balls in a Bag
@@ -358,6 +359,7 @@
 #### 3043. Find the Length of the Longest Common Prefix
 #### 3047. Find the Largest Area of Square Inside Two Rectangles
 #### 3066. Minimum Operations to Exceed Threshold Value II
+#### 3070. Count Submatrices with Top-Left Element and Sum Less Than k
 #### 3075. Maximize Happiness of Selected Children
 #### 3085. Minimum Deletions to Make String K-Special
 #### 3097. Shortest Subarray With OR at Least K II
@@ -449,4 +451,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 440
+### Total finish 442

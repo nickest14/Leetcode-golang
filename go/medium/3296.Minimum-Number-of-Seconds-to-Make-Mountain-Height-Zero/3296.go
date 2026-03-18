@@ -34,5 +34,5 @@ func minNumberOfSeconds(mountainHeight int, workerTimes []int) int64 {
 			lo = mid + 1
 		}
 	}
-	return lo
+	return int64(lo)
 }
