@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 125
+### Easy finish 127
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -60,6 +60,7 @@
 #### 1790. Check if One String Swap Can Make Strings Equal
 #### 1800. Maximum Ascending Subarray Sum
 #### 1863. Sum of All Subset XOR Totals
+#### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 #### 1920. Build Array from Permutation
 #### 1925. Count Square Sum Triples
 #### 1935. Maximum Number of Words You Can Type
@@ -129,8 +130,9 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 #### 3606. Coupon Code Validator
 #### 3637. Trionic Array I
+#### 3643. Flip Square Submatrix Vertically
 
-### Medinum finish 282
+### Medinum finish 284
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -226,6 +228,7 @@
 #### 1574. Shortest Subarray to be Removed to Make Array Sorted
 #### 1590. Make Sum Divisible by P
 #### 1593. Split a String Into the Max Number of Unique Substrings
+#### 1594. Maximum Non Negative Product in a Matrix
 #### 1625. Lexicographically Smallest String After Applying Operations
 #### 1653. Minimum Deletions to Make String Balanced
 #### 1680. Concatenation of Consecutive Binary Numbers
@@ -342,6 +345,7 @@
 #### 2845. Count of Interesting Subarrays
 #### 2874. Maximum Value of an Ordered Triplet II
 #### 2901. Longest Unequal Adjacent Groups Subsequence II
+#### 2906. Construct Product Matrix
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
 #### 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros
 #### 2924. Find Champion II
@@ -451,4 +455,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 442
+### Total finish 446
