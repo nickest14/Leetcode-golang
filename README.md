@@ -133,7 +133,7 @@
 #### 3637. Trionic Array I
 #### 3643. Flip Square Submatrix Vertically
 
-### Medinum finish 285
+### Medinum finish 287
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -343,6 +343,7 @@
 #### 2799. Count Complete Subarrays in an Array
 #### 2807. Insert Greatest Common Divisors in Linked List
 #### 2825. Make String a Subsequence Using Cyclic Increments
+#### 2840. Check if Strings Can be Made Equal With Operations II
 #### 2845. Count of Interesting Subarrays
 #### 2874. Maximum Value of an Ordered Triplet II
 #### 2901. Longest Unequal Adjacent Groups Subsequence II
@@ -399,6 +400,7 @@
 #### 3397. Maximum Number of Distinct Elements After Operations
 #### 3403. Find the Lexicographically Largest String From the Box I
 #### 3408. Design Task Manager
+#### 3418. Maximum Amount of Money Robot Can Earn
 #### 3433. Count Mentions Per User
 #### 3439. Reschedule Meetings for Maximum Free Time I
 #### 3440. Reschedule Meetings for Maximum Free Time II
@@ -457,4 +459,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 448
+### Total finish 450
