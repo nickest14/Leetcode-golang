@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 129
+### Easy finish 130
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -133,8 +133,9 @@
 #### 3606. Coupon Code Validator
 #### 3637. Trionic Array I
 #### 3643. Flip Square Submatrix Vertically
+#### 3740. Minimum Distance Between Three Equal Elements I
 
-### Medinum finish 289
+### Medinum finish 290
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -422,6 +423,7 @@
 #### 3634. Minimum Removals to Balance Array
 #### 3650. Minimum Cost Path with Edge Reversals
 #### 3652. Best Time to Buy and Sell Stock using Strategy
+#### 3653. XOR After Range Multiplication Queries I
 #### 3713. Longest Balanced Substring I
 #### 3719. Longest Balanced Subarray I
 
@@ -462,4 +464,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 453
+### Total finish 455
