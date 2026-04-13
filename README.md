@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 130
+### Easy finish 131
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -60,6 +60,7 @@
 #### 1784. Check if Binary String Has at Most One Segment of Ones
 #### 1790. Check if One String Swap Can Make Strings Equal
 #### 1800. Maximum Ascending Subarray Sum
+#### 1848. Minimum Distance to the Target Element
 #### 1863. Sum of All Subset XOR Totals
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 #### 1920. Build Array from Permutation
@@ -135,7 +136,7 @@
 #### 3643. Flip Square Submatrix Vertically
 #### 3740. Minimum Distance Between Three Equal Elements I
 
-### Medinum finish 290
+### Medinum finish 291
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -426,6 +427,7 @@
 #### 3653. XOR After Range Multiplication Queries I
 #### 3713. Longest Balanced Substring I
 #### 3719. Longest Balanced Subarray I
+#### 3741. Minimum Distance Between Three Equal Elements II
 
 ### Hard finish 35
 #### 85. Maximal Rectangle
@@ -464,4 +466,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 455
+### Total finish 457
