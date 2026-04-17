@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 131
+### Easy finish 132
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -87,6 +87,7 @@
 #### 2418. Sort the People
 #### 2460. Apply Operations to an Array
 #### 2490. Circular Sentence
+#### 2515. Shortest Distance to Target String in a Circular Array
 #### 2529. Maximum Count of Positive Integer and Negative Integer
 #### 2558. Take Gifts From the Richest Pile
 #### 2566. Maximum Difference by Remapping a Digit
@@ -136,7 +137,7 @@
 #### 3643. Flip Square Submatrix Vertically
 #### 3740. Minimum Distance Between Three Equal Elements I
 
-### Medinum finish 291
+### Medinum finish 292
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -428,6 +429,7 @@
 #### 3713. Longest Balanced Substring I
 #### 3719. Longest Balanced Subarray I
 #### 3741. Minimum Distance Between Three Equal Elements II
+#### 3761. Minimum Absolute Distance Between Mirror Pairs
 
 ### Hard finish 35
 #### 85. Maximal Rectangle
@@ -466,4 +468,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 457
+### Total finish 459
