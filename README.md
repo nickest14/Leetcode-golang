@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 132
+### Easy finish 133
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -136,8 +136,9 @@
 #### 3637. Trionic Array I
 #### 3643. Flip Square Submatrix Vertically
 #### 3740. Minimum Distance Between Three Equal Elements I
+#### 3783. Mirror Distance of an Integer
 
-### Medinum finish 292
+### Medinum finish 293
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -253,6 +254,7 @@
 #### 1792. Maximum Average Pass Ratio
 #### 1813. Sentence Similarity III
 #### 1829. Maximum XOR for Each Query
+#### 1855. Maximum Distance Between a Pair of Values
 #### 1861. Rotating the Box
 #### 1865. Finding Pairs With a Certain Sum
 #### 1877. Minimize Maximum Pair Sum in Array
@@ -468,4 +470,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 459
+### Total finish 461
