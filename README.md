@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 133
+### Easy finish 134
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -72,6 +72,7 @@
 #### 2011. Final Value of Variable After Performing Operations
 #### 2016. Maximum Difference Between Increasing Elements
 #### 2022. Convert 1D Array Into 2D Array
+#### 2078. Two Furthest Houses With Different Colors
 #### 2094. Finding 3-Digit Even Numbers
 #### 2099. Find Subsequence of Length K With the Largest Sum
 #### 2138. Divide a String Into Groups of Size k
@@ -138,7 +139,7 @@
 #### 3740. Minimum Distance Between Three Equal Elements I
 #### 3783. Mirror Distance of an Integer
 
-### Medinum finish 293
+### Medinum finish 294
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -314,6 +315,7 @@
 #### 2429. Minimize XOR
 #### 2434. Using a Robot to Print the Lexicographically Smallest String
 #### 2438. Range Product Queries of Powers
+#### 2452. Words Within Two Edits of Dictionary
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
 #### 2466. Count Ways To Build Good Strings
 #### 2471. Minimum Number of Operations to Sort a Binary Tree by Level
@@ -470,4 +472,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 461
+### Total finish 463
