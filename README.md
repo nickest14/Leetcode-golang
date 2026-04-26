@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 134
+### Easy finish 135
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -94,6 +94,7 @@
 #### 2566. Maximum Difference by Remapping a Digit
 #### 2570. Merge Two 2D Arrays by Summing Values
 #### 2696. Minimum String Length After Removing Substrings
+#### 2833. Furthest Point From Origin
 #### 2839. Check if Strings Can be Made Equal With Operations I
 #### 2843. Count Symmetric Integers
 #### 2873. Maximum Value of an Ordered Triplet I
@@ -139,7 +140,7 @@
 #### 3740. Minimum Distance Between Three Equal Elements I
 #### 3783. Mirror Distance of an Integer
 
-### Medinum finish 294
+### Medinum finish 295
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -233,6 +234,7 @@
 #### 1530. Number of Good Leaf Nodes Pairs
 #### 1536. Minimum Swaps to Arrange a Binary Grid
 #### 1545. Find Kth Bit in Nth Binary String
+#### 1559. Detect Cycles in 2D Grid
 #### 1574. Shortest Subarray to be Removed to Make Array Sorted
 #### 1590. Make Sum Divisible by P
 #### 1593. Split a String Into the Max Number of Unique Substrings
@@ -472,4 +474,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 463
+### Total finish 465
