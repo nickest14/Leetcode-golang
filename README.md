@@ -140,7 +140,7 @@
 #### 3740. Minimum Distance Between Three Equal Elements I
 #### 3783. Mirror Distance of an Integer
 
-### Medinum finish 295
+### Medinum finish 296
 #### 2. Add Two Numbers
 #### 3. Longest Substring Without Repeating Characters
 #### 11. Container With Most Water
@@ -170,6 +170,7 @@
 #### 763. Partition Labels
 #### 769. Max Chunks To Make Sorted
 #### 781. Rabbits in Forest
+#### 788. Rotated Digits
 #### 790. Domino and Tromino Tiling
 #### 802. Find Eventual Safe States
 #### 808. Soup Servings
@@ -474,4 +475,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 465
+### Total finish 466
