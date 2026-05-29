@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Golang
 
-### Easy finish 135
+### Easy finish 136
 
 #### 1. Two Sum
 #### 66. Plus One
@@ -115,6 +115,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 #### 3264. Final Array State After K Multiplication Operations I
 #### 3289. The Two Sneaky Numbers of Digitville
+#### 3300. Minimum Element After Replacement With Digit Sum
 #### 3304. Find the K-th Character in String Game I
 #### 3314. Construct the Minimum Bitwise Array I
 #### 3330. Find the Original Typed String I
@@ -475,4 +476,4 @@
 #### 3495. Minimum Operations to Make Array Elements Zero
 #### 3640. Trionic Array II
 
-### Total finish 466
+### Total finish 467
